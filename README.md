@@ -23,7 +23,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     
     
 ---
-##Analytics
+## Analytics
 
 *Track web/app visitors*
 * [Mixpanel](https://mixpanel.com/) - Product analytics
@@ -58,7 +58,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 
-
 ## Media
 *Media APIs (optimization, CDN)*
 * [Cloudinary](https://cloudinary.com/) - Optimize create, manage, and deliver images and videos.
@@ -82,7 +81,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Handling payments, credit card processing and invoices*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on api-first payments.
-
 
 ## Search
 
