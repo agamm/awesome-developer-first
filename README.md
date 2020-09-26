@@ -10,17 +10,25 @@ A curated list of awesome developer-first tools, products and resources.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Developer-First](#awesome-developer-first)
+    - [Analytics](#analytics)
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
     - [Deployment](#deployment)
     - [Mail](#mail)
     - [Media](#media)
     - [Messaging](#messaging)
+    - [Monitoring](#monitoring)
     - [Payments](#payments)
     - [Search](#search)
     
     
 ---
+##Analytics
+
+*Track web/app visitors*
+* [Mixpanel](https://mixpanel.com/) - Product analytics
+* [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+
 ## Authentication & Identity
 
 *Products that handle authentication and user identity for you.*
@@ -62,6 +70,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Messaging APIs - SMS, notifications, chats and VoIP*
 * [Twilio](https://www.twilio.com/) - SMS, Push notifications and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat and voice APIs.
+
+## Monitoring
+
+*Monitoring your production application*
+* [Sentry](https://sentry.io/) - Application monitoring, bugs and performance.
+* [KeenIO](https://keen.io/) - Event Streaming Platform.
 
 ## Payments
 
