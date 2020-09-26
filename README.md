@@ -64,7 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Search
 
-* Index and search your content as a service api *
+*Index and search your content as a service api*
 * [Algolia](https://www.algolia.com/) - earch-as-a-service and full suite of APIs.
 * [Swiftype](https://swiftype.com/) - yet another search as a service.
 * [Websolr](https://www.websolr.com/) - open Source and hosted search with Solr.
