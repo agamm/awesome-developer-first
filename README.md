@@ -10,12 +10,12 @@ A curated list of awesome developer-first tools, products and resources.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Developer-First](#awesome-developer-first)
-    - [Authentication & Identity](#)
-    - [CMS](#)
-    - [Deployment](#audio)
+    - [Authentication & Identity](#authentication--identity)
+    - [CMS](#cms---headless-content-management-systems)
+    - [Deployment](#deployment)
     - [Mail](#mail)
-    - [Messaging](#)
-    - [Payments](#)
+    - [Messaging](#messaging)
+    - [Payments](#payments)
     - [Search](#search)
     
     
