@@ -14,6 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [CMS](#cms---headless-content-management-systems)
     - [Deployment](#deployment)
     - [Mail](#mail)
+    - [Media](#media)
     - [Messaging](#messaging)
     - [Payments](#payments)
     - [Search](#search)
@@ -32,14 +33,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Back-end only content management system, you decide on frontend and consume content via API*
 * [Contentful](http://contentful.com/) - CMS as API.
-* [Tipe](https://tipe.io/) - open-source headless CMS.
-* [ElegantCMS](https://www.elegantcms.io/) - headless CMS builder.
+* [Tipe](https://tipe.io/) - Open source headless CMS.
+* [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 
 ## Deployment
 
 *Products that help you deploy your app/website*
 * [Render](https://render.com/) -Deploy from git, to CDN with SSL.
-* [Vercel](https://vercel.com/) - deploy JAMStack via CLI.
+* [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
 
@@ -49,6 +50,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 
+
+## Media
+*Media APIs (optimization, CDN)*
+* [Cloudinary](https://cloudinary.com/) - Optimize create, manage, and deliver images and videos.
+* [imgix](https://www.imgix.com/) - Transforms, optimizes, and caches images.
+* [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 
 ## Messaging
 
@@ -66,9 +73,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Search
 
 *Index and search your content as a service api*
-* [Algolia](https://www.algolia.com/) - earch-as-a-service and full suite of APIs.
-* [Swiftype](https://swiftype.com/) - yet another search as a service.
-* [Websolr](https://www.websolr.com/) - open Source and hosted search with Solr.
+* [Algolia](https://www.algolia.com/) - Search as a service and full suite of APIs.
+* [Swiftype](https://swiftype.com/) - Yet another search as a service.
+* [Websolr](https://www.websolr.com/) - Open Source and hosted search with Solr.
 
 # Contributing
 
