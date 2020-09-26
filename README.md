@@ -2,9 +2,9 @@
 
 A curated list of awesome developer-first tools, products and resources.  
 
-> The definition of developer-first of this repo is:
-> - A tool or product that target developers as the users
-> - Headless, API-First are most commonly the examples of such products
+> The definition of developer-first for this repo is:
+> - A tool or product that targets developers as the users
+> - "Headless", "API-First" are most commonly the examples of such products
 > - Usually this means that the front page has code examples :)
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
