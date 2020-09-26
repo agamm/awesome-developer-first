@@ -41,6 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Render](https://render.com/) -Deploy from git, to CDN with SSL.
 * [Vercel](https://vercel.com/) - deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
+* [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
 
 ## Mail
 
