@@ -14,6 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
     - [Deployment](#deployment)
+    - [IDE](#ide)
     - [Mail](#mail)
     - [Media](#media)
     - [Messaging](#messaging)
@@ -51,6 +52,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
+
+## IDE
+*Products that extend your IDE and help development*
+* [Codota](https://www.codota.com/) - AI Code Completions.
+    * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota)
+* [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
+    
 
 ## Mail
 
