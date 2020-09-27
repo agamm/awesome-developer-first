@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Analytics](#analytics)
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
+    - [Discussions](#discussions)
     - [Deployment](#deployment)
     - [IDE](#ide)
     - [Mail](#mail)
@@ -52,6 +53,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
+
+## Discussions
+
+*Comments & forums*
+* [Commento](https://commento.io/) - Privacy centric emmbeddable comment system.
+* [MuutIo](https://muut.io/) - Tools to create a community driven app.
 
 ## IDE
 *Products that extend your IDE and help development*
