@@ -77,6 +77,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Messaging APIs - SMS, notifications, chats and VoIP*
 * [Twilio](https://www.twilio.com/) - SMS, Push notifications and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat and voice APIs.
+* [stream](https://getstream.io/) - (Feed &) Chat as a service.
 
 ## Monitoring
 
