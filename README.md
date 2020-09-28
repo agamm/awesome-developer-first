@@ -19,6 +19,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Documentation](#documentation)
     - [GEO](#geo)
     - [IDE](#ide)
+    - [Localization](#localization)
     - [Mail](#mail)
     - [Media](#media)
     - [Messaging](#messaging)
@@ -94,6 +95,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota)
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
+## Localization
+
+*Translating your product (also denoted i18n)
+* [Localazy](https://localazy.com/) - App translation built for developers.
+
 ## Mail
 
 *Sending emails as a Service*
