@@ -118,7 +118,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Handling payments, credit card processing and invoices*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on api-first payments.
-* [Plaid](https://plaid.com/) - Accept and send ACH (~bank transfers) in app/website.
+* [Plaid](https://plaid.com/) - Accept, send ACH (~bank transfers) and get Bank info.
 
 ## Search
 
