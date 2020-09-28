@@ -81,11 +81,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## IDE
 *Products that extend your IDE and help development*
-* [Codota](https://www.codota.com/) - AI Code Completions.
+* [Codota](https://www.codota.com/) - AI code completions.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota)
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
-
 ## Mail
 
 *Sending emails as a Service*
@@ -119,6 +118,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Handling payments, credit card processing and invoices*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on api-first payments.
+* [Plaid](https://plaid.com/) - Accept and send ACH (~bank transfers) in app/website.
 
 ## Search
 
