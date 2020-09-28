@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS auth as a service.
 * [Okta](https://developer.okta.com/) - Embeddable auth in your app.
 * [LoginRadius](https://www.loginradius.com/) - Managed User Authentication service.
+* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 
 ## CMS - (headless) content management systems
 
