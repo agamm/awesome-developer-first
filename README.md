@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Messaging](#messaging)
     - [Monitoring](#monitoring)
     - [Payments](#payments)
+    - [Repo](#repo)
     - [Search](#search)
     
     
@@ -119,6 +120,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on api-first payments.
 * [Plaid](https://plaid.com/) - Accept, send ACH (~bank transfers) and get Bank info.
+
+## Repo
+
+*Repository management*
+* [Rush](https://rushjs.io/) - Manage js mono repos.
 
 ## Search
 
