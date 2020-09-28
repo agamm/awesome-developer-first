@@ -13,8 +13,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Analytics](#analytics)
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
+    - [Databases & Spreadsheets](#databases--spreadsheets)
     - [Discussions](#discussions)
     - [Deployment](#deployment)
+    - [Documentation](#documentation)
+    - [GEO](#geo)
     - [IDE](#ide)
     - [Mail](#mail)
     - [Media](#media)
@@ -47,6 +50,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 
+## Databases & Spreadsheets
+
+*Storing data and processing it*
+* [Adirtable](https://airtable.com/) - DB/Spreadsheet hybrid with an API.
+
 ## Deployment
 
 *Products that help you deploy your app/website*
@@ -61,6 +69,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Commento](https://commento.io/) - Privacy centric emmbeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community driven app.
 
+## Documentation
+
+*Documentation solutions*
+* [readme](https://readme.com/) - personalized and dynamic docs.
+
+## GEO
+*Location services*
+* [Radar](https://radar.io/) - Geofencing and geo APIs.
+* [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+
 ## IDE
 *Products that extend your IDE and help development*
 * [Codota](https://www.codota.com/) - AI Code Completions.
@@ -73,12 +91,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Sending emails as a Service*
 * [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
+* [Lob](https://www.lob.com/) - Email and address verification.
 
 ## Media
 *Media APIs (optimization, CDN)*
 * [Cloudinary](https://cloudinary.com/) - Optimize create, manage, and deliver images and videos.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and caches images.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
+* [Mux](https://mux.com/) - APIs to upload manage and stream video.
 
 ## Messaging
 
