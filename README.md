@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Payments](#payments)
     - [Repo](#repo)
     - [Search](#search)
+    - [Shipping](#shipping)
     - [Testing](#testing)
     
     
@@ -142,6 +143,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of APIs.
 * [Swiftype](https://swiftype.com/) - Yet another search as a service.
 * [Websolr](https://www.websolr.com/) - Open Source and hosted search with Solr.
+
+## Shipping
+
+*Creating and handling shipment of goods*
+* [easypost](https://www.easypost.com/) - shipping APIs for ecommerce. 
 
 ## Testing
 
