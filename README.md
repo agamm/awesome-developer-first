@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Track web/app visitors*
 * [Mixpanel](https://mixpanel.com/) - Product analytics
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+* [Segment](https://segment.com/) - Collect user data and sent to your other tools.
 
 ## Authentication & Identity
 
