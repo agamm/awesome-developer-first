@@ -35,6 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mixpanel](https://mixpanel.com/) - Product analytics
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and sent to your other tools.
+* [Amplitude](https://amplitude.com/) - Has good analytics APIs.
 
 ## Authentication & Identity
 
