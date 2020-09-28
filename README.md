@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Payments](#payments)
     - [Repo](#repo)
     - [Search](#search)
+    - [Testing](#testing)
     
     
 ---
@@ -36,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and sent to your other tools.
 * [Amplitude](https://amplitude.com/) - Has good analytics APIs.
+* [Heap](https://heap.io/) - Yet another product analytics API. 
 
 ## Authentication & Identity
 
@@ -71,6 +73,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Comments & forums*
 * [Commento](https://commento.io/) - Privacy centric emmbeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community driven app.
+* [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews and comments as a service.
+* [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
+* [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 
 ## Documentation
 
@@ -115,6 +120,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Monitoring your production application*
 * [Sentry](https://sentry.io/) - Application monitoring, bugs and performance.
 * [KeenIO](https://keen.io/) - Event Streaming Platform.
+* [Rollbar](https://rollbar.com/) - Reports errors in production.
 
 ## Payments
 
@@ -126,6 +132,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Repo
 
 *Repository management*
+* [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
+* [Nexus repository pro](https://www.sonatype.com/nexus/repository-pro) - Create your own package repository x2.
 * [Rush](https://rushjs.io/) - Manage js mono repos.
 
 ## Search
@@ -134,6 +142,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of APIs.
 * [Swiftype](https://swiftype.com/) - Yet another search as a service.
 * [Websolr](https://www.websolr.com/) - Open Source and hosted search with Solr.
+
+## Testing
+
+*Testing tools*
+* [Testim](https://www.testim.io/) - Frontend testing 
+* [Applitools](https://applitools.com/) - Automated visual testing.
+* [Percy](https://percy.io/) - Visual testing.
 
 # Contributing
 
