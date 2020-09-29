@@ -97,7 +97,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     
 ## Localization
 
-*Translating your product (also denoted i18n)
+*Translating your product (also denoted i18n*
 * [Localazy](https://localazy.com/) - App translation built for developers.
 
 ## Mail
