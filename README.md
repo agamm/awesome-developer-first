@@ -78,6 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews and comments as a service.
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
+* [utterances](https://utteranc.es) - Comments as GitHub issues.
 
 ## Documentation
 
@@ -106,6 +107,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 * [Lob](https://www.lob.com/) - Email and address verification.
+* [FormSpree](https://formspree.io/) - Receive form submissions by Email.
 
 ## Media
 *Media APIs (optimization, CDN)*
