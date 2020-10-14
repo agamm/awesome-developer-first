@@ -16,7 +16,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Code Quality](#code-quality)
     - [Databases & Spreadsheets](#databases--spreadsheets)
     - [Discussions](#discussions)
-    - [Deployment](#deployment)
+    - [Deployment Hosting](#deployment-hosting)
+    - [CI/CD](#)
     - [Documentation](#documentation)
     - [GEO](#geo)
     - [IDE](#ide)
@@ -85,6 +86,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews and comments as a service.
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
+
+## CI/CD
+
+*Continious Integration / Delivery*
+* [CircleCI](https://circleci.com/) - YML to configure your builds
+* [Gitlab](https://gitlab.com/) - Open source (kind of similar to circleci)
 
 ## Documentation
 
