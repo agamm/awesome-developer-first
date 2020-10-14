@@ -135,6 +135,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Sentry](https://sentry.io/) - Application monitoring, bugs and performance.
 * [KeenIO](https://keen.io/) - Event Streaming Platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
+* [LogRocket](https://logrocket.com/) - Replay bugs users have.
 
 ## Payments
 
