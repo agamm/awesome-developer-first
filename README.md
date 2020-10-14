@@ -17,7 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Databases & Spreadsheets](#databases--spreadsheets)
     - [Discussions](#discussions)
     - [Deployment Hosting](#deployment-hosting)
-    - [CI/CD](#)
+    - [CI/CD](#cicd)
     - [Documentation](#documentation)
     - [GEO](#geo)
     - [IDE](#ide)
