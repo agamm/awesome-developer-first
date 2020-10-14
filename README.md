@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Analytics](#analytics)
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
+    - [Code Quality](#code-quality)
     - [Databases & Spreadsheets](#databases--spreadsheets)
     - [Discussions](#discussions)
     - [Deployment](#deployment)
@@ -56,6 +57,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Contentful](http://contentful.com/) - CMS as API.
 * [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
+
+## Code quality
+
+*Check your code**
+* [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks
+* [Codacy](https://www.codacy.com/) - Automatic code quality
 
 ## Databases & Spreadsheets
 
