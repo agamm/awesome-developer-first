@@ -68,7 +68,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Databases & Spreadsheets
 
 *Storing data and processing it*
-* [Adirtable](https://airtable.com/) - DB/Spreadsheet hybrid with an API.
+* [Airtable](https://airtable.com/) - DB/Spreadsheet hybrid with an API.
 
 ## Deployment
 
