@@ -70,13 +70,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Storing data and processing it*
 * [Airtable](https://airtable.com/) - DB/Spreadsheet hybrid with an API.
 
-## Deployment
+## Deployment Hosting
 
 *Products that help you deploy your app/website*
 * [Render](https://render.com/) -Deploy from git, to CDN with SSL.
 * [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
+* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infra.
 
 ## Discussions
 
