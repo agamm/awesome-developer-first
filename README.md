@@ -121,6 +121,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 * [Lob](https://www.lob.com/) - Email and address verification.
+* [FormSpree](https://formspree.io/) - Receive form submissions by Email.
 
 ## Media
 *Media APIs (optimization, CDN)*
