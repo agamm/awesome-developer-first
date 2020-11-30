@@ -184,4 +184,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Contributing
 
-If you see something missing, please open a PR. I still do want to keep the quality of the list so not all PRs will be merged.
+See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
