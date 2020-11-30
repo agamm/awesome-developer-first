@@ -9,7 +9,8 @@ A curated list of awesome developer-first tools, products and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome Developer-First](#awesome-developer-first)
+## Contents
+
     - [Analytics](#analytics)
     - [Authentication & Identity](#authentication--identity)
     - [CMS](#cms---headless-content-management-systems)
