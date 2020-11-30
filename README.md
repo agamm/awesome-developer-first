@@ -60,7 +60,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 
-## Code quality
+## Code Quality
 
 *Check your code**
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
