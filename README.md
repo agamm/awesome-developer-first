@@ -51,6 +51,7 @@ The definition of developer-first for this repo is:
 * [Okta](https://developer.okta.com/) - Embeddable auth in your app.
 * [LoginRadius](https://www.loginradius.com/) - Managed User Authentication service.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
+* [Magic.link](https://magic.link) - Passwordless (email based) login as a service.
 
 ## CMS - (headless)
 
