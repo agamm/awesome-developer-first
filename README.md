@@ -90,6 +90,7 @@ The definition of developer-first for this repo is:
 * [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews and comments as a service.
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
+* [Gitter](https://gitter.im) - Chat and networking platform for developers.
 
 ## CI/CD
 
@@ -189,3 +190,4 @@ The definition of developer-first for this repo is:
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+
