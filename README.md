@@ -26,6 +26,7 @@ The definition of developer-first for this repo is:
 * [Media](#media)
 * [Messaging](#messaging)
 * [Monitoring](#monitoring)
+* [Natural Language Processing](#natural-language-processing)
 * [Payments](#payments)
 * [Repo](#repo)
 * [Search](#search)
@@ -150,6 +151,12 @@ The definition of developer-first for this repo is:
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [LogRocket](https://logrocket.com/) - Replay bugs users have.
 * [LogDNA](https://logdna.com/) - Log management and alerts. 
+
+## Natural Language Processing
+
+*Interactions with natural language*
+* [Wit.ai](https://wit.ai) - Voice / text chatbot framework by Facebook.
+* [DialogFlow](https://cloud.google.com/dialogflow) - Voice / text chatbot framework by Google.
 
 ## Payments
 
