@@ -8,7 +8,6 @@ The definition of developer-first for this repo is:
 * "Headless", "API-First", "SaaS" are frequently used keywords.
 * Usually this means that the front page has some code examples :)
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Contents
 * [Analytics](#analytics)
