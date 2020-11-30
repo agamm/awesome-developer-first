@@ -12,7 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
-* [CMS](#cms---headless-content-management-systems)
+* [CMS - (headless)](#cms---headless-content-management-systems)
 * [Code Quality](#code-quality)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Discussions](#discussions)
@@ -37,7 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Analytics
 
 *Track web/app visitors*
-* [Mixpanel](https://mixpanel.com/) - Product analytics
+* [Mixpanel](https://mixpanel.com/) - Product analytics.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and sent to your other tools.
 * [Amplitude](https://amplitude.com/) - Has good analytics APIs.
@@ -52,9 +52,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [LoginRadius](https://www.loginradius.com/) - Managed User Authentication service.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 
-## CMS - (headless) content management systems
+## CMS - (headless)
 
-*Back-end only content management system, you decide on frontend and consume content via API*
+*Back-end only Content Management System, you decide on frontend and consume content via API*
 * [Contentful](http://contentful.com/) - CMS as API.
 * [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
@@ -62,8 +62,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Code quality
 
 *Check your code**
-* [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks
-* [Codacy](https://www.codacy.com/) - Automatic code quality
+* [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
+* [Codacy](https://www.codacy.com/) - Automatic code quality.
 
 ## Databases & Spreadsheets
 
@@ -73,12 +73,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Deployment Hosting
 
 *Products that help you deploy your app/website*
-* [Render](https://render.com/) -Deploy from git, to CDN with SSL.
+* [Render](https://render.com/) - Deploy from git, to CDN with SSL.
 * [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infra.
-* [Platform.sh](https://platform.sh/) - Continuously deploy fullstack apps 
+* [Platform.sh](https://platform.sh/) - Continuously deploy fullstack apps.
 
 ## Discussions
 
@@ -92,13 +92,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## CI/CD
 
 *Continious Integration / Delivery*
-* [CircleCI](https://circleci.com/) - YML to configure your builds
-* [Gitlab](https://gitlab.com/) - Open source (kind of similar to circleci)
+* [CircleCI](https://circleci.com/) - YML to configure your builds.
+* [Gitlab](https://gitlab.com/) - Open source (kind of similar to circleci).
 
 ## Documentation
 
 *Documentation solutions*
-* [readme](https://readme.com/) - personalized and dynamic docs.
+* [readme](https://readme.com/) - Personalized and dynamic docs.
 
 ## GEO
 *Location services*
@@ -172,7 +172,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Shipping
 
 *Creating and handling shipment of goods*
-* [easypost](https://www.easypost.com/) - shipping APIs for ecommerce. 
+* [easypost](https://www.easypost.com/) - Shipping APIs for ecommerce. 
 
 ## Testing
 
@@ -182,6 +182,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Percy](https://percy.io/) - Visual testing.
 * [Backfire.io](https://blackfire.io/) - Performance testing.
 
-# Contributing
+---
+
+## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
