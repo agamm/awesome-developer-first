@@ -182,7 +182,7 @@ The definition of developer-first for this repo is:
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Visual testing.
 * [Backfire.io](https://blackfire.io/) - Performance testing.
-
+* [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 ---
 
 ## Contributing
