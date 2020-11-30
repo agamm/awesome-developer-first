@@ -1,4 +1,5 @@
-# Awesome Developer-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 A curated list of awesome developer-first tools, products and resources.  
 
@@ -12,7 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
-* [CMS - (headless)](#cms---headless-content-management-systems)
+* [CMS - (headless)](#cms---headless)
 * [Code Quality](#code-quality)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Discussions](#discussions)
@@ -108,7 +109,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## IDE
 *Products that extend your IDE and help development*
 * [Codota](https://www.codota.com/) - AI code completions.
-    * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota)
+    * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
 ## Localization
@@ -177,7 +178,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Testing
 
 *Testing tools*
-* [Testim](https://www.testim.io/) - Frontend testing 
+* [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Visual testing.
 * [Backfire.io](https://blackfire.io/) - Performance testing.
