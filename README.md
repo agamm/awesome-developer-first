@@ -179,6 +179,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Testim](https://www.testim.io/) - Frontend testing 
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Visual testing.
+* [Backfire.io](https://blackfire.io/) - Performance testing.
 
 # Contributing
 
