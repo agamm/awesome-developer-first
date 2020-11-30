@@ -78,6 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
 * [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infra.
+* [Platform.sh](https://platform.sh/) - Continuously deploy fullstack apps 
 
 ## Discussions
 
