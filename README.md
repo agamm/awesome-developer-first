@@ -25,6 +25,7 @@ The definition of developer-first for this repo is:
 * [Mail](#mail)
 * [Media](#media)
 * [Messaging](#messaging)
+* [Misc](#misc)
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
 * [Payments](#payments)
@@ -142,6 +143,12 @@ The definition of developer-first for this repo is:
 * [Vonage](https://www.vonage.com) - Video, SMS, chat and voice APIs.
 * [stream](https://getstream.io/) - (Feed &) Chat as a service.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, realtime messaging.
+
+## Misc
+
+*Different products that probably don't have a catetgory*
+* [Actyx](https://www.actyx.com/) - Developer first factory building.
+
 
 ## Monitoring
 
