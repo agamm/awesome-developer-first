@@ -39,19 +39,19 @@ The definition of developer-first for this repo is:
 ## Analytics
 
 *Track web/app visitors*
-* [Mixpanel](https://mixpanel.com/) - Product analytics.
+* [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
-* [Segment](https://segment.com/) - Collect user data and sent to your other tools.
-* [Amplitude](https://amplitude.com/) - Has good analytics APIs.
-* [Heap](https://heap.io/) - Yet another product analytics API. 
+* [Segment](https://segment.com/) - Collect user data and send to your other products.
+* [Amplitude](https://amplitude.com/) - Has good analytics APIs, directly measure KPIs.
+* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 
 ## Authentication & Identity
 
 *Products that handle authentication and user identity for you.*
-* [Auth0](https://auth0.com/) - Authentication & Authorization as a service.
-* [AWS cognito](https://aws.amazon.com/cognito/) - AWS auth as a service.
-* [Okta](https://developer.okta.com/) - Embeddable auth in your app.
-* [LoginRadius](https://www.loginradius.com/) - Managed User Authentication service.
+* [Auth0](https://auth0.com/) - Authentication & authorization as a service.
+* [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authenttication as a service.
+* [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
+* [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email based) login as a service.
 
@@ -67,7 +67,7 @@ The definition of developer-first for this repo is:
 
 *Check your code**
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
-* [Codacy](https://www.codacy.com/) - Automatic code quality.
+* [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 
 ## Databases & Spreadsheets
 
@@ -78,10 +78,10 @@ The definition of developer-first for this repo is:
 
 *Products that help you deploy your app/website*
 * [Render](https://render.com/) - Deploy from git, to CDN with SSL.
-* [Vercel](https://vercel.com/) - Deploy JAMStack via CLI.
-* [Netlify](https://www.netlify.com/) - Deploy via git push (simplified CI).
-* [Heroku](https://www.heroku.com/) - Deploy via cli to scalable servers.
-* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infra.
+* [Vercel](https://vercel.com/) - Deploy JAMStack (mainly next.js) via CLI.
+* [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
+* [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure works with all major frameworks.
 * [Platform.sh](https://platform.sh/) - Continuously deploy fullstack apps.
 
 ## Discussions
@@ -97,13 +97,13 @@ The definition of developer-first for this repo is:
 ## CI/CD
 
 *Continious Integration / Delivery*
-* [CircleCI](https://circleci.com/) - YML to configure your builds.
-* [Gitlab](https://gitlab.com/) - Open source (kind of similar to circleci).
+* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
+* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution (kind of similar to circleci).
 
 ## Documentation
 
 *Documentation solutions*
-* [readme](https://readme.com/) - Personalized and dynamic docs.
+* [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ## GEO
 *Location services*
@@ -112,7 +112,7 @@ The definition of developer-first for this repo is:
 
 ## IDE
 *Products that extend your IDE and help development*
-* [Codota](https://www.codota.com/) - AI code completions.
+* [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
@@ -124,7 +124,7 @@ The definition of developer-first for this repo is:
 ## Mail
 
 *Sending emails as a Service*
-* [Mailgun](https://www.mailgun.com/) - Send track and recieve emails.
+* [Mailgun](https://www.mailgun.com/) - Send, track and recieve emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [FormSpree](https://formspree.io/) - Receive form submissions by Email.
@@ -132,16 +132,16 @@ The definition of developer-first for this repo is:
 ## Media
 *Media APIs (optimization, CDN)*
 * [Cloudinary](https://cloudinary.com/) - Optimize create, manage, and deliver images and videos.
-* [imgix](https://www.imgix.com/) - Transforms, optimizes, and caches images.
+* [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
-* [Mux](https://mux.com/) - APIs to upload manage and stream video.
+* [Mux](https://mux.com/) - APIs to upload, manage and stream video.
 
 ## Messaging
 
 *Messaging APIs - SMS, notifications, chats and VoIP*
-* [Twilio](https://www.twilio.com/) - SMS, Push notifications and VoIP APIs.
+* [Twilio](https://www.twilio.com/) - SMS, push notifications and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat and voice APIs.
-* [stream](https://getstream.io/) - (Feed &) Chat as a service.
+* [stream](https://getstream.io/) - Feed & chat as a service.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, realtime messaging.
 
 ## Misc
@@ -154,7 +154,7 @@ The definition of developer-first for this repo is:
 
 *Monitoring your production application*
 * [Sentry](https://sentry.io/) - Application monitoring, bugs and performance.
-* [KeenIO](https://keen.io/) - Event Streaming Platform.
+* [KeenIO](https://keen.io/) - Event streaming Platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [LogRocket](https://logrocket.com/) - Replay bugs users have.
 * [LogDNA](https://logdna.com/) - Log management and alerts. 
@@ -170,21 +170,20 @@ The definition of developer-first for this repo is:
 *Handling payments, credit card processing and invoices*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on api-first payments.
-* [Plaid](https://plaid.com/) - Accept, send ACH (~bank transfers) and get Bank info.
+* [Plaid](https://plaid.com/) - Accept, send ACH (~bank transfers) and get bank information.
 
 ## Repo
 
 *Repository management*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
-* [Nexus repository pro](https://www.sonatype.com/nexus/repository-pro) - Create your own package repository x2.
-* [Rush](https://rushjs.io/) - Manage js mono repos.
+* [cloudsmith](https://cloudsmith.com/) - Cloud native private package management.
 
 ## Search
 
 *Index and search your content as a service api*
-* [Algolia](https://www.algolia.com/) - Search as a service and full suite of APIs.
-* [Swiftype](https://swiftype.com/) - Yet another search as a service.
-* [Websolr](https://www.websolr.com/) - Open Source and hosted search with Solr.
+* [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
+* [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
+* [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Shipping
 
@@ -196,7 +195,7 @@ The definition of developer-first for this repo is:
 *Testing tools*
 * [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
-* [Percy](https://percy.io/) - Visual testing.
+* [Percy](https://percy.io/) - Continuous visual testing.
 * [Backfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 ---
