@@ -42,7 +42,6 @@ The definition of developer-first for this repo is:
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and send to your other products.
-* [Amplitude](https://amplitude.com/) - Has good analytics APIs, directly measure KPIs.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 
 ## Authentication & Identity
@@ -157,7 +156,6 @@ The definition of developer-first for this repo is:
 * [KeenIO](https://keen.io/) - Event streaming Platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [LogRocket](https://logrocket.com/) - Replay bugs users have.
-* [LogDNA](https://logdna.com/) - Log management and alerts. 
 
 ## Natural Language Processing
 
