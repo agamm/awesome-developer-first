@@ -14,6 +14,7 @@ The definition of developer-first for this repo is:
 * [Authentication & Identity](#authentication--identity)
 * [CMS - (headless)](#cms---headless)
 * [Code Quality](#code-quality)
+* [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
@@ -68,6 +69,13 @@ The definition of developer-first for this repo is:
 *Check your code**
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
+
+## Computer Vision
+
+*Manipulate and detect visual data**
+* [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
+* [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
+* [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 
 ## Databases & Spreadsheets
 
