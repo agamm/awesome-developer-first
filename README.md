@@ -30,6 +30,7 @@ The definition of developer-first for this repo is:
 * [Natural Language Processing](#natural-language-processing)
 * [Payments](#payments)
 * [Repo](#repo)
+* [Scraping](#scraping)
 * [Search](#search)
 * [Shipping](#shipping)
 * [Testing](#testing)
@@ -176,6 +177,14 @@ The definition of developer-first for this repo is:
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [cloudsmith](https://cloudsmith.com/) - Cloud native private package management.
 
+## Scraping
+
+*Fetching data from websites not via intended API*
+* [Apify](https://apify.com/) - Turn websites to an API.
+* [proxycrawl](https://proxycrawl.com/) - Scrape hard to scrape websites with proxies.
+* [ScrapingBee](https://www.scrapingbee.com/) - using headless browsers and proxies to scrape without being blocked.
+* [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
+
 ## Search
 
 *Index and search your content as a service api*
@@ -196,6 +205,7 @@ The definition of developer-first for this repo is:
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Backfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [Beeceptor](https://beeceptor.com/) - REST API mocking.
 ---
 
 ## Contributing
