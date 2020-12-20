@@ -12,7 +12,7 @@ The definition of developer-first for this repo is:
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
-* [CMS (headless)](#cms--headless)
+* [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
