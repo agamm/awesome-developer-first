@@ -40,7 +40,7 @@ The definition of developer-first for this repo is:
 ---
 ## Analytics
 
-*Track web/app visitors*
+*Track web/app visitors.*
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
@@ -58,7 +58,7 @@ The definition of developer-first for this repo is:
 
 ## CMS (headless)
 
-*Back-end only Content Management System, you decide on frontend and consume content via API*
+*Backend only Content Management System, you decide on frontend and consume content via API.*
 * [Contentful](http://contentful.com/) - CMS as an API.
 * [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
@@ -66,25 +66,25 @@ The definition of developer-first for this repo is:
 
 ## Code Quality
 
-*Check your code*
+*Check your code quality.*
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 
 ## Computer Vision
 
-*Manipulate and detect visual data*
+*Manipulate and detect visual data.*
 * [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 
 ## Databases & Spreadsheets
 
-*Storing data and processing it*
+*Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 
 ## Deployment Hosting
 
-*Products that help you deploy your app/website*
+*Products that help you deploy your app/website.*
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Deploy JAMStack (mainly next.js) via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
@@ -94,7 +94,7 @@ The definition of developer-first for this repo is:
 
 ## Discussions
 
-*Comments & forums*
+*Comments and forums.*
 * [Commento](https://commento.io/) - Privacy centric embeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community-driven app.
 * [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews, and comments as a service.
@@ -104,41 +104,41 @@ The definition of developer-first for this repo is:
 
 ## CI/CD
 
-*Continious Integration / Delivery*
+*Continious Integration / Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
 ## Documentation
 
-*Documentation solutions*
+*Documentation solutions.*
 * [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ## GEO
-*Location services*
+*Location services.*
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 
 ## IDE
-*Products that extend your IDE and help development*
+*Products that extend your IDE and help development.*
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
 ## Localization
 
-*Translating your product (also denoted i18n*
+*Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
 
 ## Mail
 
-*Sending emails as a Service*
+*Sending emails as a service.*
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 
 ## Media
-*Media APIs (optimization, CDN)*
+*Media APIs (optimization, CDN).*
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
@@ -146,7 +146,7 @@ The definition of developer-first for this repo is:
 
 ## Messaging
 
-*Messaging APIs - SMS, notifications, chats, and VoIP*
+*Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 * [stream](https://getstream.io/) - Feed and chat as a service.
@@ -154,13 +154,13 @@ The definition of developer-first for this repo is:
 
 ## Misc
 
-*Different products that probably don't have a catetgory*
+*Different products that probably don't have a catetgory.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 
 
 ## Monitoring
 
-*Monitoring your production application*
+*Monitoring your production application.*
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
@@ -168,26 +168,26 @@ The definition of developer-first for this repo is:
 
 ## Natural Language Processing
 
-*Interactions with natural language*
+*Interactions with natural language.*
 * [Wit.ai](https://wit.ai) - Voice/text chatbot framework by Facebook.
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Payments
 
-*Handling payments, credit card processing, and invoices*
+*Handling payments, credit card processing, and invoices.*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 
 ## Repo
 
-*Repository management*
+*Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Scraping
 
-*Fetching data from websites not via intended API*
+*Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
 * [proxycrawl](https://proxycrawl.com/) - Scrape hard to scrape websites with proxies.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
@@ -195,19 +195,19 @@ The definition of developer-first for this repo is:
 
 ## Search
 
-*Index and search your content as a service api*
+*Index and search your content as a service API.*
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Shipping
 
-*Creating and handling shipment of goods*
+*Creating and handling shipment of goods.*
 * [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
 
 ## Testing
 
-*Testing tools*
+*Testing tools.*
 * [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Continuous visual testing.
