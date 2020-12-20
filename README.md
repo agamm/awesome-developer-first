@@ -12,7 +12,7 @@ The definition of developer-first for this repo is:
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
-* [CMS - (headless)](#cms---headless)
+* [CMS (headless)](#cms--headless)
 * [Code Quality](#code-quality)
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
@@ -56,7 +56,7 @@ The definition of developer-first for this repo is:
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 
-## CMS - (headless)
+## CMS (headless)
 
 *Back-end only Content Management System, you decide on frontend and consume content via API*
 * [Contentful](http://contentful.com/) - CMS as an API.
