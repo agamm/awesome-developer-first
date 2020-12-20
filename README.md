@@ -86,7 +86,7 @@ The definition of developer-first for this repo is:
 
 *Products that help you deploy your app/website.*
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-* [Vercel](https://vercel.com/) - Deploy JAMStack (mainly next.js) via CLI.
+* [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
@@ -122,7 +122,7 @@ The definition of developer-first for this repo is:
 *Products that extend your IDE and help development.*
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
-* [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
+* [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
     
 ## Localization
 
@@ -214,6 +214,7 @@ The definition of developer-first for this repo is:
 * [Backfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
+
 ---
 
 ## Contributing
