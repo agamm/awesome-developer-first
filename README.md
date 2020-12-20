@@ -5,8 +5,8 @@ A curated list of awesome developer-first tools, products and resources.
 
 The definition of developer-first for this repo is:
 * Developers as the target audience.
-* "Headless", "API-First", "SaaS" are frequently used keywords.
-* Usually, this means that the front page has some code examples :)
+* "Headless", "API-first", "SaaS" are frequently used keywords.
+* Usually, this means that the front page has some code examples.
 
 
 ## Contents
@@ -43,7 +43,7 @@ The definition of developer-first for this repo is:
 *Track web/app visitors*
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
-* [Segment](https://segment.com/) - Collect user data and send it to your other products.
+* [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 
 ## Authentication & Identity
@@ -66,13 +66,13 @@ The definition of developer-first for this repo is:
 
 ## Code Quality
 
-*Check your code**
+*Check your code*
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 
 ## Computer Vision
 
-*Manipulate and detect visual data**
+*Manipulate and detect visual data*
 * [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
@@ -80,7 +80,7 @@ The definition of developer-first for this repo is:
 ## Databases & Spreadsheets
 
 *Storing data and processing it*
-* [Airtable](https://airtable.com/) - DB/Spreadsheet hybrid with an API.
+* [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 
 ## Deployment Hosting
 
@@ -89,7 +89,7 @@ The definition of developer-first for this repo is:
 * [Vercel](https://vercel.com/) - Deploy JAMStack (mainly next.js) via CLI.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
-* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure works with all major frameworks.
+* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 
 ## Discussions
@@ -121,7 +121,7 @@ The definition of developer-first for this repo is:
 ## IDE
 *Products that extend your IDE and help development*
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
-    * [TabNine](https://www.tabnine.com/) - Deep learning completion (also codota).
+    * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (python/js).
     
 ## Localization
@@ -149,22 +149,22 @@ The definition of developer-first for this repo is:
 *Messaging APIs - SMS, notifications, chats, and VoIP*
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
-* [stream](https://getstream.io/) - Feed & chat as a service.
+* [stream](https://getstream.io/) - Feed and chat as a service.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 
 ## Misc
 
 *Different products that probably don't have a catetgory*
-* [Actyx](https://www.actyx.com/) - Developer first factory building.
+* [Actyx](https://www.actyx.com/) - Developer-first factory building.
 
 
 ## Monitoring
 
 *Monitoring your production application*
-* [Sentry](https://sentry.io/) - Application monitoring, bugs, and performance.
-* [KeenIO](https://keen.io/) - Event streaming Platform.
+* [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
+* [KeenIO](https://keen.io/) - Event streaming platform.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
-* [LogRocket](https://logrocket.com/) - Replay bugs users have.
+* [LogRocket](https://logrocket.com/) - Replay bugs users had.
 
 ## Natural Language Processing
 
@@ -177,7 +177,7 @@ The definition of developer-first for this repo is:
 *Handling payments, credit card processing, and invoices*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
-* [Plaid](https://plaid.com/) - Accept, send ACH (~bank transfers) and get bank information.
+* [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 
 ## Repo
 
@@ -190,7 +190,7 @@ The definition of developer-first for this repo is:
 *Fetching data from websites not via intended API*
 * [Apify](https://apify.com/) - Turn websites to an API.
 * [proxycrawl](https://proxycrawl.com/) - Scrape hard to scrape websites with proxies.
-* [ScrapingBee](https://www.scrapingbee.com/) - using headless browsers and proxies to scrape without being blocked.
+* [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 
 ## Search
