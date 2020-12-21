@@ -104,7 +104,7 @@ The definition of developer-first for this repo is:
 
 ## CI/CD
 
-*Continious Integration / Delivery.*
+*Continious Integration/Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
@@ -154,7 +154,7 @@ The definition of developer-first for this repo is:
 
 ## Misc
 
-*Different products that probably don't have a catetgory.*
+*Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 
 
@@ -189,7 +189,7 @@ The definition of developer-first for this repo is:
 
 *Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
-* [proxycrawl](https://proxycrawl.com/) - Scrape hard to scrape websites with proxies.
+* [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 
@@ -202,7 +202,7 @@ The definition of developer-first for this repo is:
 
 ## Shipping
 
-*Creating and handling shipment of goods.*
+*Creating and handling the shipment of goods.*
 * [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
 
 ## Testing
