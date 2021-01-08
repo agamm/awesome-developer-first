@@ -8,6 +8,9 @@ The definition of developer-first for this repo is:
 * "Headless", "API-first", "SaaS" are frequently used keywords.
 * Usually, this means that the front page has some code examples.
 
+```diff
+! 👀 Watch this repo to get notifications about new products we find
+```
 
 ## Contents
 * [Analytics](#analytics)
