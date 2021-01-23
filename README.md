@@ -9,7 +9,7 @@ The definition of developer-first for this repo is:
 * Usually, this means that the front page has some code examples.
 
 ```diff
-! 👀 Watch this repo to get notifications about new products we find
++ 👀 Watch this repo to get notifications about new products we find
 ```
 
 ## Contents
