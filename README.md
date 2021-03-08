@@ -4,7 +4,7 @@
 A curated list of awesome developer-first tools, products and resources.  
 
 The definition of developer-first for this repo is:
-* Developers as the target audience.
+* Developers are the target audience.
 * "Headless", "API-first", "SaaS" are frequently used keywords.
 * Usually, this means that the front page has some code examples.
 
