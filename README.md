@@ -139,6 +139,8 @@ The definition of developer-first for this repo is:
 * [Sendgrid](https://sendgrid.com/) - Email API.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
+* [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
+* [AnyMailFinder](https://anymailfinder.com) - Verify and find email APIs.
 
 ## Media
 *Media APIs (optimization, CDN).*
