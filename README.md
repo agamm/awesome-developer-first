@@ -216,7 +216,7 @@ The definition of developer-first for this repo is:
 * [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Continuous visual testing.
-* [Backfire.io](https://blackfire.io/) - Performance testing.
+* [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 
