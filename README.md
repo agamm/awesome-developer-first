@@ -120,7 +120,7 @@ The definition of developer-first for this repo is:
 *Location services.*
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
-* [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding API.
+* [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
 ## IDE
 *Products that extend your IDE and help development.*
@@ -224,4 +224,3 @@ The definition of developer-first for this repo is:
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
-
