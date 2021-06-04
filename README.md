@@ -120,6 +120,7 @@ The definition of developer-first for this repo is:
 *Location services.*
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+* [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
 ## IDE
 *Products that extend your IDE and help development.*
