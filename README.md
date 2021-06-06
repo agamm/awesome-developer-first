@@ -108,7 +108,8 @@ The definition of developer-first for this repo is:
 
 ## Environment & Secret Management
 
-*Manage environment variables.*
+*Manage environment variables and secrets for multiple apps or projects.*
+* [Vault](https://www.vaultproject.io/) -  API driven secret key management.
 * [Doppler](https://doppler.com/) - All your environment variables across projects and environments, in one place.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 ## CI/CD
