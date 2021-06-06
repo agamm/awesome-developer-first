@@ -15,15 +15,15 @@ The definition of developer-first for this repo is:
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
+* [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
-* [Environment & Secret Management](#environment--secret-management)
-* [CI/CD](#cicd)
 * [Documentation](#documentation)
+* [Environment & Secret Management](#environment--secret-management)
 * [GEO](#geo)
 * [IDE](#ide)
 * [Localization](#localization)
@@ -43,7 +43,6 @@ The definition of developer-first for this repo is:
     
 ---
 ## Analytics
-
 *Track web/app visitors.*
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
@@ -51,7 +50,6 @@ The definition of developer-first for this repo is:
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 
 ## Authentication & Identity
-
 *Products that handle authentication and user identity for you.*
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
@@ -60,8 +58,12 @@ The definition of developer-first for this repo is:
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 
-## CMS (headless)
+## CI/CD
+*Continious Integration/Delivery.*
+* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
+* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
+## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
 * [Contentful](http://contentful.com/) - CMS as an API.
 * [Tipe](https://tipe.io/) - Open source headless CMS.
@@ -69,25 +71,21 @@ The definition of developer-first for this repo is:
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
 ## Code Quality
-
 *Check your code quality.*
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 
 ## Computer Vision
-
 *Manipulate and detect visual data.*
 * [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 
 ## Databases & Spreadsheets
-
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 
 ## Deployment Hosting
-
 *Products that help you deploy your app/website.*
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
@@ -97,7 +95,6 @@ The definition of developer-first for this repo is:
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 
 ## Discussions
-
 *Comments and forums.*
 * [Commento](https://commento.io/) - Privacy centric embeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community-driven app.
@@ -106,24 +103,17 @@ The definition of developer-first for this repo is:
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 * [Gitter](https://gitter.im) - Chat and networking platform for developers.
 
-## Environment & Secret Management
+## Documentation
+*Documentation solutions.*
+* [readme](https://readme.com/) - Personalized and dynamic developer docs.
+* [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 
+## Environment & Secret Management
 *Manage environment variables and secrets for multiple apps or projects.*
 * [Vault](https://www.vaultproject.io/) - API driven secret key management.
 * [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-## CI/CD
-
-*Continious Integration/Delivery.*
-* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
-* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
-
-## Documentation
-
-*Documentation solutions.*
-* [readme](https://readme.com/) - Personalized and dynamic developer docs.
-* [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 
 ## GEO
 *Location services.*
@@ -138,12 +128,10 @@ The definition of developer-first for this repo is:
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
     
 ## Localization
-
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
 
 ## Mail
-
 *Sending emails as a service.*
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
@@ -160,7 +148,6 @@ The definition of developer-first for this repo is:
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 
 ## Messaging
-
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -168,13 +155,11 @@ The definition of developer-first for this repo is:
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 
 ## Misc
-
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 
 
 ## Monitoring
-
 *Monitoring your production application.*
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 * [KeenIO](https://keen.io/) - Event streaming platform.
@@ -182,13 +167,11 @@ The definition of developer-first for this repo is:
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 
 ## Natural Language Processing
-
 *Interactions with natural language.*
 * [Wit.ai](https://wit.ai) - Voice/text chatbot framework by Facebook.
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Payments
-
 *Handling payments, credit card processing, and invoices.*
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
@@ -196,13 +179,11 @@ The definition of developer-first for this repo is:
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 
 ## Repo
-
 *Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Scraping
-
 *Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
 * [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
@@ -210,19 +191,16 @@ The definition of developer-first for this repo is:
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 
 ## Search
-
 *Index and search your content as a service API.*
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Shipping
-
 *Creating and handling the shipment of goods.*
 * [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
 
 ## Testing
-
 *Testing tools.*
 * [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
