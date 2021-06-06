@@ -110,7 +110,7 @@ The definition of developer-first for this repo is:
 
 *Manage environment variables.*
 * [Doppler](https://doppler.com/) - All your environment variables across projects and environments, in one place.
-
+* [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 ## CI/CD
 
 *Continious Integration/Delivery.*
@@ -229,4 +229,3 @@ The definition of developer-first for this repo is:
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
-
