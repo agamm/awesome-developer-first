@@ -21,6 +21,7 @@ The definition of developer-first for this repo is:
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
+* [Environment & Secret Management](#environment--secret-management)
 * [CI/CD](#cicd)
 * [Documentation](#documentation)
 * [GEO](#geo)
@@ -105,6 +106,13 @@ The definition of developer-first for this repo is:
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 * [Gitter](https://gitter.im) - Chat and networking platform for developers.
 
+## Environment & Secret Management
+
+*Manage environment variables and secrets for multiple apps or projects.*
+* [Vault](https://www.vaultproject.io/) - API driven secret key management.
+* [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
+* [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
+* [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 ## CI/CD
 
 *Continious Integration/Delivery.*
