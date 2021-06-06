@@ -21,7 +21,7 @@ The definition of developer-first for this repo is:
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
-* [Environment Variables](#environment-variables)
+* [Environment & Secret Management](#environment--secret-management)
 * [CI/CD](#cicd)
 * [Documentation](#documentation)
 * [GEO](#geo)
