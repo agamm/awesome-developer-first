@@ -106,7 +106,7 @@ The definition of developer-first for this repo is:
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 * [Gitter](https://gitter.im) - Chat and networking platform for developers.
 
-## Environment Variables
+## Environment & Secret Management
 
 *Manage environment variables.*
 * [Doppler](https://doppler.com/) - All your environment variables across projects and environments, in one place.
