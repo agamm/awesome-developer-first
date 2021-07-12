@@ -85,6 +85,10 @@ The definition of developer-first for this repo is:
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 
+## Debugging and APM
+*Tools that help in tracking bugs.*
+* [Lightrun](https://www.lightrun.com) - Tool to debug production servers
+
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
