@@ -7,6 +7,7 @@ The definition of developer-first for this repo is:
 * Developers are the target audience.
 * "Headless", "API-first", "SaaS" are frequently used keywords.
 * Usually, this means that the front page has some code examples.
+* Products - tools/services that people pay for.
 
 ```diff
 + 👀 Watch this repo to get notifications about new products we find
