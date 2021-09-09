@@ -85,6 +85,7 @@ The definition of developer-first for this repo is:
 ## Databases & Spreadsheets
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
+* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
