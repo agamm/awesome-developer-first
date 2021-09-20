@@ -58,6 +58,7 @@ The definition of developer-first for this repo is:
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+* [Oso](https://www.osohq.com/) - Authorization framework (RBAC)
 
 ## CI/CD
 *Continious Integration/Delivery.*
@@ -122,6 +123,7 @@ The definition of developer-first for this repo is:
 * [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
+* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
 
 ## GEO
 *Location services.*
@@ -165,7 +167,6 @@ The definition of developer-first for this repo is:
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
-
 
 ## Monitoring
 *Monitoring your production application.*
