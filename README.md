@@ -49,6 +49,7 @@ The definition of developer-first for this repo is:
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
