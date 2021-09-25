@@ -59,7 +59,7 @@ The definition of developer-first for this repo is:
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
-* [Oso](https://www.osohq.com/) - Authorization framework (RBAC)
+* [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 
 ## CI/CD
 *Continious Integration/Delivery.*
