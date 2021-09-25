@@ -156,6 +156,7 @@ The definition of developer-first for this repo is:
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
+* [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
