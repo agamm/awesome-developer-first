@@ -16,6 +16,7 @@ The definition of developer-first for this repo is:
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
+* [Business Data](#business-data)
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
@@ -59,6 +60,11 @@ The definition of developer-first for this repo is:
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC)
+
+
+## Business Data
+*Products that allow you to access business data.*
+* [Secretary of State API](https://cobaltintelligence.com/secretary-of-state/) - API that will query business data from Secretary of States.
 
 ## CI/CD
 *Continious Integration/Delivery.*
