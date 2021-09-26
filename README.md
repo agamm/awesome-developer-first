@@ -77,6 +77,7 @@ The definition of developer-first for this repo is:
 *Check your code quality.*
 * [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
+* [P42](https://p42.ai/) - JavaScript and TypeScript code modernization and refactoring.
 
 ## Computer Vision
 *Manipulate and detect visual data.*
