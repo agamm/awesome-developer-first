@@ -1,7 +1,7 @@
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first tools, products and resources.  
+A curated list of awesome developer-first tools and products  
 
 The definition of developer-first for this repo is:
 * Developers are the target audience.
