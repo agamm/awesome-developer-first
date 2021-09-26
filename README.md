@@ -153,7 +153,9 @@ The definition of developer-first for this repo is:
 
 ## Media
 *Media APIs (optimization, CDN).*
+* [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
+* [CraftMyPDF](https://craftmypdf.com/) - Generate PDF documents from reusable templates with a drop-and-drop editor.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
