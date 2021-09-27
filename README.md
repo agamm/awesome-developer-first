@@ -36,6 +36,7 @@ The definition of developer-first for this repo is:
 * [Natural Language Processing](#natural-language-processing)
 * [Payments](#payments)
 * [Repo](#repo)
+* [Reports Generation](#reports-generation)
 * [Scraping](#scraping)
 * [Search](#search)
 * [Shipping](#shipping)
@@ -194,6 +195,11 @@ The definition of developer-first for this repo is:
 *Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+
+## Reports Generation
+*Generating reports, mainly PDFs*
+* [PDFBlade](https://pdfblade.com/#pricing) - HTML to PDF API usage based pricing.
+* [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
