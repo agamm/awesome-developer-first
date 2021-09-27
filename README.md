@@ -159,6 +159,7 @@ The definition of developer-first for this repo is:
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
+* [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
