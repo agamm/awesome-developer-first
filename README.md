@@ -228,6 +228,7 @@ The definition of developer-first for this repo is:
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
+* [Zylitics](https://zylitics.io/) - All-in-one end to end test automation platform.
 
 ---
 
