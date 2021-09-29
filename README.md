@@ -61,6 +61,7 @@ The definition of developer-first for this repo is:
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
+* [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 
 ## CI/CD
 *Continious Integration/Delivery.*
