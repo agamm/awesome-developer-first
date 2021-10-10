@@ -105,6 +105,7 @@ The definition of developer-first for this repo is:
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+* [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 
 ## Discussions
 *Comments and forums.*
