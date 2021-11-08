@@ -205,6 +205,7 @@ The definition of developer-first for this repo is:
 *Generating reports, mainly PDFs*
 * [PDFBlade](https://pdfblade.com/#pricing) - HTML to PDF API usage based pricing.
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
+* [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
