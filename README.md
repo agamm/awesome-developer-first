@@ -176,6 +176,7 @@ The definition of developer-first for this repo is:
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 
 ## Monitoring
 *Monitoring your production application.*
