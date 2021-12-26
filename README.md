@@ -225,6 +225,7 @@ The definition of developer-first for this repo is:
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
+* [typesense cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 
 ## Shipping
 *Creating and handling the shipment of goods.*
