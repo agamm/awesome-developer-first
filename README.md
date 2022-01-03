@@ -177,7 +177,7 @@ The definition of developer-first for this repo is:
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
-* [zigi](https://www.zigi.ai/) - AI-powered workflow personal assistant for developers via Slack.
+* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 
 ## Monitoring
