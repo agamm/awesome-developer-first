@@ -177,7 +177,7 @@ The definition of developer-first for this repo is:
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
-* [zigi](https://www.zigi.ai/) - Developer’s assistant for non-coding tasks via Slack.
+* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## Monitoring
 *Monitoring your production application.*
