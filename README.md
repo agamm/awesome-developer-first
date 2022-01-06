@@ -27,6 +27,7 @@ The definition of developer-first for this repo is:
 * [Environment & Secret Management](#environment--secret-management)
 * [GEO](#geo)
 * [IDE](#ide)
+* [Integrations](#integrations)
 * [Localization](#localization)
 * [Mail](#mail)
 * [Media](#media)
@@ -62,6 +63,7 @@ The definition of developer-first for this repo is:
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
+* [SuperTokens](https://supertokens.io/]) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 
 ## CI/CD
 *Continious Integration/Delivery.*
@@ -85,6 +87,7 @@ The definition of developer-first for this repo is:
 * [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
+* [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
@@ -143,7 +146,11 @@ The definition of developer-first for this repo is:
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
-    
+
+## Integrations
+*Integration management systems or products that ease integration development*
+* [apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+
 ## Localization
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
