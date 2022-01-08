@@ -26,6 +26,7 @@ The definition of developer-first for this repo is:
 * [Discussions](#discussions)
 * [Documentation](#documentation)
 * [Environment & Secret Management](#environment--secret-management)
+* [Feature Flags](#feature-flags)
 * [GEO](#geo)
 * [IDE](#ide)
 * [Integrations](#integrations)
@@ -135,6 +136,12 @@ The definition of developer-first for this repo is:
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 * [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
+
+## Feature Flags
+*Control production features with conditional flags in your code.*
+* [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
+* [split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 
 ## GEO
 *Location services.*
