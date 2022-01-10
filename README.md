@@ -157,7 +157,7 @@ The definition of developer-first for this repo is:
 
 ## Integrations
 *Integration management systems or products that ease integration development*
-* [apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
 
 ## Localization
 *Translating your product (also denoted i18n).*
