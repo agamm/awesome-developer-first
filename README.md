@@ -187,6 +187,7 @@ The definition of developer-first for this repo is:
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 * [stream](https://getstream.io/) - Feed and chat as a service.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 
 ## Misc
 *Different products that probably don't have a category.*
