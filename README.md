@@ -21,6 +21,7 @@ The definition of developer-first for this repo is:
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
 * [Computer Vision](#computer-vision)
+* [Data Exploration](#data-exploration)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
@@ -90,6 +91,12 @@ The definition of developer-first for this repo is:
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+
+## Data Exploration
+* [DataStation](https://datastation.multiprocess.io)- Easily query, script, and visualize data from every database, file, and API
+* [Metabase](https://www.metabase.com) - The simplest, fastest way to get business intelligence and analytics to everyone in your company
+* [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize, dashboard and share your data
+* [Superset](https://github.com/apache/superset) - A Data Visualization and Data Exploration Platform
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
