@@ -66,6 +66,7 @@ The definition of developer-first for this repo is:
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [SuperTokens](https://supertokens.io/]) - Opensource and hosted email & Oauth authentication with prebuilt UI.
+* [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 
 ## CI/CD
 *Continious Integration/Delivery.*
