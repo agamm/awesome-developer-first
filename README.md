@@ -251,6 +251,7 @@ The definition of developer-first for this repo is:
 
 ## Testing
 *Testing tools.*
+* [testRigor](https://www.testrigor.com/) - End-to-end testing emulating how humans do it.
 * [Testim](https://www.testim.io/) - Frontend testing.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - Continuous visual testing.
