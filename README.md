@@ -65,7 +65,7 @@ The definition of developer-first for this repo is:
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
-* [SuperTokens](https://supertokens.io/]) - Opensource and hosted email & Oauth authentication with prebuilt UI.
+* [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 
 ## CI/CD
