@@ -196,6 +196,7 @@ The definition of developer-first for this repo is:
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+* [EmailEngine](https://emailengine.app/) - API and webhooks for existing email accounts
 
 ## Monitoring
 *Monitoring your production application.*
