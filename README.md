@@ -2,7 +2,7 @@
 
 
 A curated list of awesome developer-first tools and products.  
-I'm sure that you'd like https://unzip.dev (developer trends newsletter), check it out!  
+I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter), check it out!  
 You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :) 
 
 The definition of developer-first for this repo is:
