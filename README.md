@@ -1,7 +1,7 @@
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first tools and products.  
+A curated list of awesome developer-first products.  
 I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter), check it out!  
 You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :) 
 
