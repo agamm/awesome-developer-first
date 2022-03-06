@@ -68,6 +68,7 @@ The definition of developer-first for this repo is:
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
+* [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 
 ## CI/CD
 *Continious Integration/Delivery.*
