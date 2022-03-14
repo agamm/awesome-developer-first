@@ -167,6 +167,7 @@ The definition of developer-first for this repo is:
 ## Localization
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
+* [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop.
 
 ## Mail
 *Sending emails as a service.*
