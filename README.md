@@ -30,6 +30,7 @@ The definition of developer-first for this repo is:
 * [Feature Flags](#feature-flags)
 * [GEO](#geo)
 * [IDE](#ide)
+* [Infrastructure as Code](#infrastructure-as-code)
 * [Integrations](#integrations)
 * [Localization](#localization)
 * [Mail](#mail)
@@ -159,6 +160,11 @@ The definition of developer-first for this repo is:
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
+
+## Infrastructure as Code
+*Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+* [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 
 ## Integrations
 *Integration management systems or products that ease integration development*
