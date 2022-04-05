@@ -236,6 +236,7 @@ The definition of developer-first for this repo is:
 
 ## Reports Generation
 *Generating reports, mainly PDFs*
+* [DocRaptor[(https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the Prince PDF library
 * [PDFBlade](https://pdfblade.com/#pricing) - HTML to PDF API usage based pricing.
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
