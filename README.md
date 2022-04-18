@@ -128,10 +128,10 @@ The definition of developer-first for this repo is:
 
 ## Documentation
 *Documentation solutions.*
-* [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 * [readme](https://readme.com/) - Personalized and dynamic developer docs.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
+* [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 
 ## Environment & Secret Management
 *Manage environment variables and secrets for multiple apps or projects.*
