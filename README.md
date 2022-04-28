@@ -82,6 +82,7 @@ The definition of developer-first for this repo is:
 * [Contentful](http://contentful.com/) - CMS as an API.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
+* [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
 
 ## Code Quality
 *Check your code quality.*
