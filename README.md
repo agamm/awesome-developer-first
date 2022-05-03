@@ -39,6 +39,7 @@ The definition of developer-first for this repo is:
 * [Misc](#misc)
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
+* [Orchestration](#orchestration)
 * [Payments](#payments)
 * [Repo](#repo)
 * [Reports Generation](#reports-generation)
@@ -219,6 +220,12 @@ The definition of developer-first for this repo is:
 ## Natural Language Processing
 *Interactions with natural language.*
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
+
+## Orchestration
+*Orchestration tools for (micro) services*
+* [Camunda- Platform](https://docs.camunda.io/) - Workflow engine that delivers scalable, on-demand process automation.
+* [Netflix Conductor](https://netflix.github.io/conductor/) - Workflow Orchestration engine.
+* [Uber Cadence](https://cadenceworkflow.io/) - Fault tolerant stateful code platform.
 
 ## Payments
 *Handling payments, credit card processing, and invoices.*
