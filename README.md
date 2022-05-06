@@ -77,6 +77,8 @@ The definition of developer-first for this repo is:
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 * [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. 
+* [Foresight](https://www.thundra.io/foresight) - Monitoring tool for your CI Workflows & Tests, exclusively for GitHub Actions.
+
 
 ## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
@@ -109,6 +111,7 @@ The definition of developer-first for this repo is:
 * [Google Cloud's operations suite](https://cloud.google.com/products/operations) -  Set of debug primitives (capture, log injection, etc) for Google cloud.
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
+* [Sidekick](https://www.runsidekick.com) - Live application debugger with non-breaking breakpoints. Supporting Java, Node.js, Python.
 
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
@@ -216,6 +219,8 @@ The definition of developer-first for this repo is:
 * [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
 * [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
 * [instatus](https://instatus.com) - Minimalist Jamstack status page.
+* [Thundra](https://thundra.io) - Application Performance Monitoring for Serverless and Containers
+
 
 ## Natural Language Processing
 *Interactions with natural language.*
