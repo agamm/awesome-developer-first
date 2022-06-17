@@ -159,6 +159,7 @@ The definition of developer-first for this repo is:
 *Products that extend your IDE and help development.*
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
+* [envd](https://github.com/tensorchord/envd) - 🏕️ Machine learning development environment for data science and AI/ML engineering teams.
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 
 ## Infrastructure as Code
