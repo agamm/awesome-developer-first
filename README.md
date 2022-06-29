@@ -71,6 +71,7 @@ The definition of developer-first for this repo is:
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
+* [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 
 ## CI/CD
 *Continious Integration/Delivery.*
