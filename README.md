@@ -121,6 +121,9 @@ The definition of developer-first for this repo is:
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 * [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
+* [cyclic](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+* [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
+* [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
 
 ## Discussions
 *Comments and forums.*
