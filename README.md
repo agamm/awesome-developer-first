@@ -124,6 +124,7 @@ The definition of developer-first for this repo is:
 * [cyclic](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
 * [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
+* [Northflank](https://northflank.com/) - Deploy apps and DBs to the cloud.
 
 ## Discussions
 *Comments and forums.*
