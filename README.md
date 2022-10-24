@@ -27,6 +27,7 @@ The definition of developer-first for this repo is:
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
 * [Documentation](#documentation)
+* [Ecommerce](#ecommerce)
 * [Environment & Secret Management](#environment--secret-management)
 * [Feature Flags](#feature-flags)
 * [GEO](#geo)
@@ -138,6 +139,10 @@ The definition of developer-first for this repo is:
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 * [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
+
+## Ecommerce
+*Ecommerce solutions.*
+* [Elastic Path](https://www.elasticpath.com/) - API-First ecommerce solution.
 
 ## Environment & Secret Management
 *Manage environment variables and secrets for multiple apps or projects.*
