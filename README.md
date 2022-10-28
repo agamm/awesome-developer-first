@@ -147,9 +147,9 @@ The definition of developer-first for this repo is:
 ## Feature Flags
 *Control production features with conditional flags in your code.*
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
-* [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 * [split](https://www.split.io/) - Feature flags platform with data analytics.
 * [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
+* [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 
 ## GEO
 *Location services.*
