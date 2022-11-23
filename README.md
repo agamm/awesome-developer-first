@@ -225,6 +225,7 @@ The definition of developer-first for this repo is:
 * [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
 * [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
 * [instatus](https://instatus.com) - Minimalist Jamstack status page.
+* [WebGazer](https://www.webgazer.io) - Uptime and cron job monitoring, and public hosted status pages.
 
 ## Natural Language Processing
 *Interactions with natural language.*
