@@ -191,6 +191,7 @@ The definition of developer-first for this repo is:
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
+* [Mailazy](https://mailazy.com/) - Email Delivery Powered by AI using APIs.
 
 ## Media
 *Media APIs (optimization, CDN).*
