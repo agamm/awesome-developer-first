@@ -74,6 +74,7 @@ The definition of developer-first for this repo is:
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+* [MojoAuth](https://mojoauth.com/) - Passwordless User Authentication as a service.
 
 ## CI/CD
 *Continious Integration/Delivery.*
