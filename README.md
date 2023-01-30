@@ -59,6 +59,7 @@ The definition of developer-first for this repo is:
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+* [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
