@@ -115,6 +115,7 @@ The definition of developer-first for this repo is:
 *Tools that help in tracking bugs.*
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
+* [Linear](https://linear.app/) - Issue tracking.
 
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
@@ -168,7 +169,7 @@ The definition of developer-first for this repo is:
 ## IDE
 *Products that extend your IDE and help development.*
 * [Codota](https://www.codota.com/) - AI code completions for your IDE.
-    * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
+* [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 
 ## Infrastructure as Code
