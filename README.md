@@ -110,6 +110,7 @@ The definition of developer-first for this repo is:
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [upstash](https://upstash.com/) - Serverless tailored redis provider.
+- [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
