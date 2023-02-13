@@ -15,6 +15,8 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
+For the latest additions [click here](https://github.com/agamm/awesome-developer-first/commits/main).
+
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
