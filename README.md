@@ -242,6 +242,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Payments
 *Handling payments, credit card processing, and invoices.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
+* [Lago](https://www.getlago.com/) — Open-source metering and usage-based billing.
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
