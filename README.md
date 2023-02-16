@@ -233,6 +233,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Natural Language Processing
 *Interactions with natural language.*
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
+* [Chatbot Design Studio](https://tiledesk.com/chatbot-design-studio/) - Mix AI (Bert machine learning model) with proactive rules by Tiledesk.
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
