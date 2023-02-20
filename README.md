@@ -75,9 +75,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
-* [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
-* [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
+* [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 
 ## CI/CD
