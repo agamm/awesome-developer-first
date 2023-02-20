@@ -73,8 +73,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
-* [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
+* [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
