@@ -70,12 +70,12 @@ The definition of developer-first for this repo is:
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
+* [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
-* [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 
 ## CI/CD
 *Continious Integration/Delivery.*
