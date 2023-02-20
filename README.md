@@ -113,6 +113,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [upstash](https://upstash.com/) - Serverless tailored redis provider.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+* [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
