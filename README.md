@@ -189,6 +189,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
 * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
+* [Localizely](https://localizely.com/) - Tool for translating apps for multilingual market.
 
 ## Mail
 *Sending emails as a service.*
