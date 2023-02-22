@@ -93,6 +93,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 * [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
+* [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
 
 ## Code Quality
 *Check your code quality.*
