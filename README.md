@@ -208,6 +208,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
+* [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates using our API. Free plan comes with 450 PDFs/month.
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
