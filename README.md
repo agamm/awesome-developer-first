@@ -145,6 +145,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Documentation
 *Documentation solutions.*
+* [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 * [readme](https://readme.com/) - Personalized and dynamic developer docs.
