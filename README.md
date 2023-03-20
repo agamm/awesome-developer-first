@@ -79,7 +79,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
-* [WorkOS](https://workos.com/) - Enterprise SSO, more out-of-the-box enterprise features.
+* [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## CI/CD
 *Continious Integration/Delivery.*
