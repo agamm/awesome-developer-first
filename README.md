@@ -115,7 +115,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [upstash](https://upstash.com/) - Serverless tailored redis provider.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
-* [Neuledge](https://neuledge.com/) - Universal database agnostic language (abstract ORM).
+* [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
