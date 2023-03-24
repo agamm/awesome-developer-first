@@ -134,7 +134,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
 * [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-* [Vercel](https://vercel.com/) - Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
 ## Discussions
 *Comments and forums.*
