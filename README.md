@@ -67,16 +67,19 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Products that handle authentication and user identity for you.*
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
+* [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open source API for enterprise SSO and Directory Sync.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
+* [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+* [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## CI/CD
 *Continious Integration/Delivery.*
@@ -92,6 +95,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 * [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
+* [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
 
 ## Code Quality
 *Check your code quality.*
@@ -127,12 +131,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+* [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
 * [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-* [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
+* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
 ## Discussions
 *Comments and forums.*
@@ -143,6 +148,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Documentation
 *Documentation solutions.*
+* [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 * [readme](https://readme.com/) - Personalized and dynamic developer docs.
