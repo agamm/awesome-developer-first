@@ -113,10 +113,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Databases & Spreadsheets
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
+* [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [upstash](https://upstash.com/) - Serverless tailored redis provider.
-* [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
@@ -236,7 +236,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
-
 
 ## Natural Language Processing
 *Interactions with natural language.*
