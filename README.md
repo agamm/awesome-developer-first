@@ -43,7 +43,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
 * [Orchestration](#orchestration)
-* [Payments](#payments)
+* [Payments & Pricing](#payments--pricing)
 * [Repo](#repo)
 * [Reports Generation](#reports-generation)
 * [Scraping](#scraping)
@@ -67,23 +67,25 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Products that handle authentication and user identity for you.*
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
+* [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
-* [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
+* [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
-* [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
+* [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
 * [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+* [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## CI/CD
 *Continious Integration/Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
-* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
+* [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 * [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. 
 * [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
@@ -130,12 +132,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+* [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
-* [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
+* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-* [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
+* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
 ## Discussions
 *Comments and forums.*
@@ -214,6 +217,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+* [Knock](https://knock.app) - Notifications as a service.
 * [stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -224,7 +228,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
-* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
+* [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
+* [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## Monitoring
 *Monitoring your production application.*
@@ -233,21 +238,21 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
-
 ## Natural Language Processing
 *Interactions with natural language.*
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
-* [AWS Step Functions](https://aws.amazon.com/step-functions/) - visual workflow service to build distributed applications and automate processes
+* [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 * [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
-## Payments
+## Payments & Pricing
 *Handling payments, credit card processing, and invoices.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+* [stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
 ## Repo
