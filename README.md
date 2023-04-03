@@ -114,6 +114,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+* [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [upstash](https://upstash.com/) - Serverless tailored redis provider.
