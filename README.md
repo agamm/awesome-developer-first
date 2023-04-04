@@ -50,9 +50,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Search](#search)
 * [Shipping](#shipping)
 * [Testing](#testing)
-
-    
+ 
 ---
+
 ## Analytics
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
@@ -78,7 +78,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
-* [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+* [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## CI/CD
@@ -100,14 +100,14 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Code Quality
 *Check your code quality.*
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
-* [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
+* [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
 
 ## Computer Vision
 *Manipulate and detect visual data.*
-* [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
+* [Clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
-* [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+* [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 * [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## Databases & Spreadsheets
@@ -117,7 +117,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
-* [upstash](https://upstash.com/) - Serverless tailored redis provider.
+* [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
@@ -128,7 +128,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
 * [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
-* [cyclic](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+* [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
@@ -152,8 +152,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
-* [readme](https://readme.com/) - Personalized and dynamic developer docs.
-* [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
+* [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
+* [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
 ## Environment & Secret Management
 *Manage environment variables and secrets for multiple apps or projects.*
@@ -168,11 +168,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
-* [split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Split](https://www.split.io/) - Feature flags platform with data analytics.
 
 ## GEO
 *Location services.*
-* [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+* [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
@@ -188,7 +188,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 
 ## Integrations
-*Integration management systems or products that ease integration development*
+*Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
 
 ## Localization
@@ -218,7 +218,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
-* [stream](https://getstream.io/) - Feed and chat as a service.
+* [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
@@ -252,16 +252,16 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
-* [stigg](https://www.stigg.io) - API-first pricing plans.
+* [Stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
 ## Repo
 *Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
-* [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+* [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Reports Generation
-*Generating reports, mainly PDFs*
+*Generating reports, mainly PDFs.*
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
@@ -270,7 +270,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Scraping
 *Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
-* [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
+* [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
@@ -279,12 +279,12 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Index and search your content as a service API.*
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
-* [typesense cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+* [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Shipping
 *Creating and handling the shipment of goods.*
-* [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
+* [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
 
 ## Testing
 *Testing tools.*
