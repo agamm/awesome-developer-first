@@ -278,6 +278,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Search
 *Index and search your content as a service API.*
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
+* [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
