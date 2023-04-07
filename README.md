@@ -82,7 +82,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## CI/CD
-*Continious Integration/Delivery.*
+*Continuous Integration/Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
 * [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
