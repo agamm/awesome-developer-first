@@ -48,6 +48,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Reports Generation](#reports-generation)
 * [Scraping](#scraping)
 * [Search](#search)
+* [Security](#security)
 * [Shipping](#shipping)
 * [Testing](#testing)
  
@@ -281,6 +282,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
+
+## Security
+*Products that secure your codebase.*
+* [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
+* [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+* [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
+* [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
 ## Shipping
 *Creating and handling the shipment of goods.*
