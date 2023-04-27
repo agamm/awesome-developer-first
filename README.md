@@ -304,6 +304,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [Imitate Email](https://imitate.email) - End-to-end email testing tool
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
