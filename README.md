@@ -205,6 +205,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
+* [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
@@ -304,7 +305,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
-* [Imitate Email](https://imitate.email) - End-to-end email testing tool
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
