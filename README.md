@@ -205,6 +205,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
+* [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
