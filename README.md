@@ -233,6 +233,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+* [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 * [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
