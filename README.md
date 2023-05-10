@@ -177,6 +177,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## GEO
 *Location services.*
 * [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+* [PlaceKit](https://placekit.io/) - Locations search API.
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
