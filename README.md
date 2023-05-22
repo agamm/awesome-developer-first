@@ -109,6 +109,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Manipulate and detect visual data.*
 * [Clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
+* [Docutain SDK](https://sdk.Docutain.com/) - Document scanner, data extraction, text recognition & PDF creation.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 * [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
