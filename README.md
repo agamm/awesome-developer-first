@@ -195,6 +195,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
 *Translating your product (also denoted i18n).*
