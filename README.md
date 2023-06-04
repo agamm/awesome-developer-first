@@ -223,6 +223,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
+* [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
