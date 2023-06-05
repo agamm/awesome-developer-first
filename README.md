@@ -111,7 +111,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
-* [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
