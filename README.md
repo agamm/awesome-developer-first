@@ -173,7 +173,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 * [Split](https://www.split.io/) - Feature flags platform with data analytics.
-* [Unleash](https://www.getunleash.io/) - The Open-source, enterprise-ready feature management solution built with privacy in mind.
+* [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution.
 
 ## GEO
 *Location services.*
