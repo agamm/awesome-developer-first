@@ -311,6 +311,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
