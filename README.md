@@ -20,6 +20,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Contents
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
+* [Automation](#automation)
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
@@ -84,6 +85,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
+
+## Automation
+*Automate workflows via APIs and SDKs.*
+* [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool.
+* [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand.
 
 ## CI/CD
 *Continuous Integration/Delivery.*
