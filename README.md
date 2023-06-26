@@ -68,7 +68,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
-* [Aserto](https://www.aserto.com) - Fine-grained authorization as a service 
+* [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
