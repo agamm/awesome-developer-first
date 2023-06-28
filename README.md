@@ -234,7 +234,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
-* [Novu](https://novu.co/) - Open-source notification infrastructure with fully functional embedded notification center.
+* [Novu](https://novu.co/) - Open-source notification infrastructure with embedded notification center.
 * [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
