@@ -273,6 +273,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 * [Stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
+* [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 
 ## Repo
 *Repository and artifacts management.*
