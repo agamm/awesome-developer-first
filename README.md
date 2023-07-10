@@ -269,11 +269,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Increase](https://increase.com/) - Bare-metal banking APIs.
 * [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+* [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 * [Stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
-* [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 
 ## Repo
 *Repository and artifacts management.*
