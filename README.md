@@ -65,6 +65,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform.
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
+* [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
