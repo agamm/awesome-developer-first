@@ -308,6 +308,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Products that secure your codebase.*
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+* [Infisical]( https://infisical.com) - Open-source, end-to-end encrypted secrets manager.
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
