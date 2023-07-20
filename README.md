@@ -219,6 +219,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
+* [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
 
 ## Media
