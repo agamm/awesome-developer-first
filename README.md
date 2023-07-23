@@ -70,11 +70,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
 * [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
-* [Cloud-IAM](https://www.cloud-iam.com) - Open-Source Keycloak Identity and Access Management as a Service
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
 * [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
+* [Cloud-IAM](https://www.cloud-iam.com) - Open-Source Keycloak Identity and Access Management as a Service.
 * [Corbado](https://corbado.com) - Passkey-first authentication as a service.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
@@ -205,8 +205,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
-* [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 * [Hook0](https://www.hook0.com) - Open-Source Webhooks-as-a-service (WaaS) that makes it easy for developers to send webhooks.
+* [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
 *Translating your product (also denoted i18n).*
@@ -289,8 +289,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
-* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 * [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more
+* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
