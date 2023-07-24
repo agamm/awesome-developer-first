@@ -151,6 +151,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
+* [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
 ## Discussions
 *Comments and forums.*
