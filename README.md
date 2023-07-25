@@ -205,7 +205,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
-* [Hook0](https://www.hook0.com) - Open-Source Webhooks-as-a-service (WaaS) that makes it easy for developers to send webhooks.
+* [Hook0](https://www.hook0.com) - Open-Source Webhooks-as-a-service (WaaS) that makes it easy for developers to send webhooks. ![Hook0](https://img.shields.io/github/contributors-anon/hook0/hook0?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
