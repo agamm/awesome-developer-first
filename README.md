@@ -296,6 +296,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
+* [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
 ## Search
