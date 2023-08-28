@@ -323,6 +323,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Testing
 *Testing tools.*
+* [Firecamp](https://github.com/firecamp-dev/firecamp) - DX first OpenSource API testing platform. 
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
