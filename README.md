@@ -255,6 +255,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Monitoring
 *Monitoring your production application.*
+* [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
