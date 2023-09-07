@@ -148,6 +148,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
+* [Quix](https://quix.io/) - One tool to build and run event streaming applications. 
 * [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
