@@ -330,6 +330,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 * [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
+* [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. ![Firecamp](https://img.shields.io/github/contributors-anon/firecamp-dev/firecamp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
