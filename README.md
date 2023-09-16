@@ -257,6 +257,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Monitoring
 *Monitoring your production application.*
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+* [Comet](https://www.comet.com/site/products/model-production-monitoring/) - Production monitoring for the complete ML lifecycle.
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
