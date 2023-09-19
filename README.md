@@ -24,6 +24,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
+* [Collaboration](#collaboration)
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Debugging](#debugging)
@@ -113,6 +114,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Check your code quality.*
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 * [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
+
+# Collaboration
+*Write code faster with your team.*
+* [Graphite](https://graphite.dev/) - Stacked diffs and a mege queue synced with Github.
 
 ## Computer Vision
 *Manipulate and detect visual data.*
