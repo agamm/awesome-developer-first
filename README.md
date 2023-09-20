@@ -265,7 +265,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Natural Language Processing
 *Interactions with natural language.*
-* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
+* [CometLLM](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google. 
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
