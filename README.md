@@ -230,11 +230,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Media APIs (optimization, CDN).*
 * [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
+* [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
-* [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
