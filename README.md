@@ -234,6 +234,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
+* [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
