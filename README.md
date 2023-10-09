@@ -141,6 +141,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Products that help you deploy your app/website.*
 * [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
 * [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+* [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 * [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
