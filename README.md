@@ -259,7 +259,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Monitoring
 *Monitoring your production application.*
-* [Airbrake.io](airbrake.io) - Error monitoring in production.
+* [Airbrake](https://airbrake.io) - Error monitoring in production.
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
