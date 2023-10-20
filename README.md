@@ -210,6 +210,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
 * [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 * [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
