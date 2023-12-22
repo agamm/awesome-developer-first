@@ -277,6 +277,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Orchestration tools for (micro) services.*
 * [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 * [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
+* [Winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Payments & Pricing
 *Handling payments, credit card processing, and invoices.*
