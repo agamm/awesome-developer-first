@@ -21,6 +21,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Analytics](#analytics)
 * [Authentication & Identity](#authentication--identity)
 * [Automation](#automation)
+* [Backend-as-a-Service](#backend-as-a-service)
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
@@ -93,6 +94,12 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
+## Backend-as-a-Service
+*Full set of tools for backend engineers.*
+* [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. ![Appwrite](https://img.shields.io/github/contributors-anon/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
+* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+
 ## CI/CD
 *Continuous Integration/Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
@@ -125,11 +132,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
-* [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. ![Appwrite](https://img.shields.io/github/contributors-anon/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
-* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
