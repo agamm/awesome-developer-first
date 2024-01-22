@@ -78,6 +78,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Kinde](https://kinde.com/) - Authentification and user management as a service.
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
