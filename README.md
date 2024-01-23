@@ -97,8 +97,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Backend-as-a-Service
 *Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
 * [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. ![Appwrite](https://img.shields.io/github/contributors-anon/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Supabase](https://supabase.io/) - Hosted and open source managed Postgres DB like Firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## CI/CD
 *Continuous Integration/Delivery.*
@@ -134,6 +133,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
