@@ -95,7 +95,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Backend-as-a-Service
-*Full set of tools for backend engineers.*
+*Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
 * [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. ![Appwrite](https://img.shields.io/github/contributors-anon/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
