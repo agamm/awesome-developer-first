@@ -66,7 +66,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
-* [Tianji](https://tianji.msgbyte.com/) - All-in-One Insight Hub. Tianji = Website Analytics + Uptime Monitor + Server Status
+* [Tianji](https://tianji.msgbyte.com/) - All-in-One Insight Hub. Tianji = Website Analytics + Uptime Monitor + Server Status.
 * [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
 ## Authentication & Identity
