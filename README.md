@@ -349,6 +349,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 * [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. ![Firecamp](https://img.shields.io/github/contributors-anon/firecamp-dev/firecamp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
+* [Octomind](https://www.octomind.dev/) -  Auto-generated, run and maintained Playwright UI tests with AI-assisted test case discovery.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
 
