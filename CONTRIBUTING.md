@@ -16,5 +16,5 @@ Make sure each new submission is sorted alphabetically.
 If the product has an open-source core (COSS), please add this badge at the end of the line: 
 
 ```
-![COMPANY](https://img.shields.io/github/contributors-anon/COMPANY/REPO?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+[![COMPANY](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/COMPANY/REPO)
 ```
