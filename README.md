@@ -267,6 +267,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
+* [Auto1111 SDK](https://github.com/saketh12/Auto1111SDK) - SDK to generate and edit images with Generative AI. [![Auto1111SDK](https://img.shields.io/github/stars/saketh12/Auto1111SDK?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/saketh12/Auto1111SDK))
 
 ## Monitoring
 *Monitoring your production application.*
