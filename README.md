@@ -261,6 +261,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [Defer](https://defer.run/) - Serverless Node.js background jobs.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
