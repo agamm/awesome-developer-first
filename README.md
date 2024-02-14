@@ -216,7 +216,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
-* [Panora](https://panora.dev) - Easy & Flexible API to add customer-facing integrations to your SaaS Product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/panoratech/panora)
+* [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/panoratech/panora)
 * [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/revertinc/revert)
 * [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 * [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
