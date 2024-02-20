@@ -278,6 +278,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
+* [Streamdal](https://www.streamdal.com/) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/streamdal/streamdal)
 
 ## Natural Language Processing
 *Interactions with natural language.*
