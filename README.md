@@ -242,7 +242,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
-* [Flatfile](https://flatfile.com/) - Programmatically import API-ready data from files.
+* [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
