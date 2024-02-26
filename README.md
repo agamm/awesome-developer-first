@@ -18,41 +18,44 @@ The definition of developer-first for this repo is:
 For the latest additions [click here](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
-* [Analytics](#analytics)
-* [Authentication & Identity](#authentication--identity)
-* [Automation](#automation)
-* [Backend-as-a-Service](#backend-as-a-service)
-* [CI/CD](#cicd)
-* [CMS (headless)](#cms-headless)
-* [Code Quality](#code-quality)
-* [Computer Vision](#computer-vision)
-* [Databases & Spreadsheets](#databases--spreadsheets)
-* [Debugging](#debugging)
-* [Deployment Hosting](#deployment-hosting)
-* [Discussions](#discussions)
-* [Documentation](#documentation)
-* [Environment & Secret Management](#environment--secret-management)
-* [Feature Flags](#feature-flags)
-* [GEO](#geo)
-* [IDE](#ide)
-* [Infrastructure as Code](#infrastructure-as-code)
-* [Integrations](#integrations)
-* [Localization](#localization)
-* [Mail](#mail)
-* [Media](#media)
-* [Messaging](#messaging)
-* [Misc](#misc)
-* [Monitoring](#monitoring)
-* [Natural Language Processing](#natural-language-processing)
-* [Orchestration](#orchestration)
-* [Payments & Pricing](#payments--pricing)
-* [Repo](#repo)
-* [Reports Generation](#reports-generation)
-* [Scraping](#scraping)
-* [Search](#search)
-* [Security](#security)
-* [Shipping](#shipping)
-* [Testing](#testing)
+- [Awesome Developer-First ](#awesome-developer-first-)
+  - [Contents](#contents)
+  - [Analytics](#analytics)
+  - [Authentication \& Identity](#authentication--identity)
+  - [Automation](#automation)
+  - [Backend-as-a-Service](#backend-as-a-service)
+  - [CI/CD](#cicd)
+  - [CMS (headless)](#cms-headless)
+  - [Code Quality](#code-quality)
+  - [Computer Vision](#computer-vision)
+  - [Databases \& Spreadsheets](#databases--spreadsheets)
+  - [Debugging](#debugging)
+  - [Deployment Hosting](#deployment-hosting)
+  - [Discussions](#discussions)
+  - [Documentation](#documentation)
+  - [Environment \& Secret Management](#environment--secret-management)
+  - [Feature Flags](#feature-flags)
+  - [GEO](#geo)
+  - [IDE](#ide)
+  - [Infrastructure as Code](#infrastructure-as-code)
+  - [Integrations](#integrations)
+  - [Localization](#localization)
+  - [Mail](#mail)
+  - [Media](#media)
+  - [Messaging](#messaging)
+  - [Misc](#misc)
+  - [Monitoring](#monitoring)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Orchestration](#orchestration)
+  - [Payments \& Pricing](#payments--pricing)
+  - [Repo](#repo)
+  - [Reports Generation](#reports-generation)
+  - [Scraping](#scraping)
+  - [Search](#search)
+  - [Security](#security)
+  - [Shipping](#shipping)
+  - [Testing](#testing)
+  - [Contributing](#contributing)
  
 ---
 
@@ -171,6 +174,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Documentation
 *Documentation solutions.*
+* [Apidog](https://apidog.com/) - All-in-one API documentation tool, 1-Click to generate API documentation from requests.
 * [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). [![Mintlify](https://img.shields.io/github/stars/mintlify/writer?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/mintlify/writer)
@@ -346,6 +350,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Testing
 *Testing tools.*
+* [Apidog](https://apidog.com/) - GUI tool for API mocking, testing (scenario testing, functional testing, performance testing, etc.).
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
