@@ -221,6 +221,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/revertinc/revert)
 * [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 * [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
+* [YepCode](https://yepcode.io/) - Build and run serverless functions with the best development experience.
 
 ## Localization
 *Translating your product (also denoted i18n).*
@@ -270,7 +271,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
-* [YepCode](https://yepcode.io/) - Build and run serverless functions with the best development experience
 
 ## Monitoring
 *Monitoring your production application.*
