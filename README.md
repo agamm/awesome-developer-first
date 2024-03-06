@@ -264,6 +264,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager. [![Daytona](https://img.shields.io/github/stars/daytonaio/daytona?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/daytonaio/daytona)
 * [Defer](https://defer.run/) - Serverless Node.js background jobs.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
