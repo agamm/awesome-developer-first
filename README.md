@@ -111,6 +111,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
 * [Contentful](http://contentful.com/) - CMS as an API.
+* [DatoCMS](https://www.datocms.com/) - API-based CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). [![Ghost](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/tryghost/ghost)
 * [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
