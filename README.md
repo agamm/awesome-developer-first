@@ -246,6 +246,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Media
 *Media APIs (optimization, CDN).*
 * [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
+* [Bytescale](https://bytescale.com) - File storage and processing APIs.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
