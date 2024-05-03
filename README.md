@@ -87,6 +87,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. [![SuperTokens](https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supertokens/supertokens-core)
+* [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
