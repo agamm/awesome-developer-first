@@ -197,6 +197,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/growthbook/growthbook)
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 * [Split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Statsig](https://statsig.com/) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
 * [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. [![Unleash](https://img.shields.io/github/stars/unleash/unleash?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/unleash/unleash)
 
 ## GEO
