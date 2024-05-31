@@ -123,7 +123,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Check your code quality.*
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 * [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
-* [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 
 ## Computer Vision
 *Manipulate and detect visual data.*
@@ -348,9 +347,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/infisical/infisical)
+* [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
-* * [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code.
+
 
 ## Shipping
 *Creating and handling the shipment of goods.*
