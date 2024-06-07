@@ -1,9 +1,9 @@
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first products.  
-(👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
-You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :) 
+A curated list of awesome developer-first products.
+(👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).
+You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :)
 
 The definition of developer-first for this repo is:
 * Developers are the target audience.
@@ -29,6 +29,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Debugging](#debugging)
 * [Deployment Hosting](#deployment-hosting)
+* [Development Environment Managers](#development-environment-managers)
 * [Discussions](#discussions)
 * [Documentation](#documentation)
 * [Environment & Secret Management](#environment--secret-management)
@@ -53,13 +54,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Security](#security)
 * [Shipping](#shipping)
 * [Testing](#testing)
- 
+
 ---
 
 ## Analytics
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
-* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/plausible/analytics)
@@ -141,7 +142,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
-## Debugging 
+## Debugging
 *Tools that help in tracking bugs.*
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Linear](https://linear.app/) - Issue tracking built for developers.
@@ -161,11 +162,15 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
-* [Quix](https://quix.io/) - One tool to build and run event streaming applications. 
+* [Quix](https://quix.io/) - One tool to build and run event streaming applications.
 * [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 * [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
+
+## Development Environment Managers
+* Setup and management of consistent development environments across various infrastructures.*
+- [Daytona](https://github.com/daytonaio/daytona) - Set up a development environment on any infrastructure, with a single command.
 
 ## Discussions
 *Comments and forums.*
@@ -294,7 +299,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Natural Language Processing
 *Interactions with natural language.*
 * [CometLLM](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/comet-llm)
-* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google. 
+* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
@@ -349,14 +354,14 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/infisical/infisical)
-* [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
+* [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code.
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
 
 ## Shipping
 *Creating and handling the shipment of goods.*
-* [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
+* [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce.
 
 ## Testing
 *Testing tools.*
