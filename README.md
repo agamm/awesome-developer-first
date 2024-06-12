@@ -214,6 +214,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
+* [MarsCode](https://www.marscode.com/?utm_source=github&utm_medium=rm) - AI-powered cloud-based IDE.
 
 ## Infrastructure as Code
 *Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
