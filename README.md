@@ -349,6 +349,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Products that secure your codebase.*
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+* [ggshield](https://github.com/GitGuardian/ggshield) — ggshield is a CLI application that runs in your local environment or in a CI environment to help you detect vulnerabilities affecting your codebase. ![GitHub Repo stars](https://img.shields.io/github/stars/GitGuardian/ggshield)
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/infisical/infisical)
 * [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
