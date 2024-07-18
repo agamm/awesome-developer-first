@@ -284,6 +284,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Monitoring
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
+* [Alerty](https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first) - APM & monitoring tool for startups.
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
