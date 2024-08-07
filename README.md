@@ -91,6 +91,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 * [SSOJet](https://ssojet.com/) - Comprehensive Enterprise SSO and a suite of ready-to-use enterprise features.
+* [MojoAuth](https://mojoauth.com/) - Complete CIAM solution with Enterprise SSO and extensive out-of-the-box enterprise features.
 
 ## Automation
 *Automate workflows via APIs and SDKs.*
