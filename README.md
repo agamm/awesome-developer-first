@@ -134,12 +134,14 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Databases & Spreadsheets
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
-* [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+* [Apitable](https://apitable.com/) - API-oriented Airtable alternative.
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/crate/crate)
 * [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/neondatabase/neon)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-* [Upstash](https://upstash.com/) - Serverless tailored redis provider.
+* [Supabase](https://supabase.com) - Open-source Firebase alternative [![Supabase](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supabase/supabase)
+* [Upstash](https://upstash.com/) - Serverless tailored Redis provider.
+
 
 ## Debugging 
 *Tools that help in tracking bugs.*
