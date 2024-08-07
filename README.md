@@ -90,6 +90,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
+* [SSOJet](https://ssojet.com/) - Comprehensive Enterprise SSO and a suite of ready-to-use enterprise features.
 
 ## Automation
 *Automate workflows via APIs and SDKs.*
