@@ -330,12 +330,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Scraping
 *Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
-* [browserless](https://browserless.io) - Browser automation deployed to the could. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
+* [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
 * [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
+* [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
 
 ## Search
 *Index and search your content as a service API.*
