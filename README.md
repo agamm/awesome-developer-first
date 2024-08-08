@@ -336,7 +336,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
-* [Zenrows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
+* [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
 
 ## Search
 *Index and search your content as a service API.*
