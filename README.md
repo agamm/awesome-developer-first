@@ -370,6 +370,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CodSpeed](codspeed.io) - Continuous Performance Testing in CI environments.
 * [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 * [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. [![Firecamp](https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/firecamp-dev/firecamp)
+* [HttpMaster](https://www.httpmaster.net/) - GUI tool for HTTP testing and debugging.
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Octomind](https://www.octomind.dev/) -  Auto-generated, run and maintained Playwright UI tests with AI-assisted test case discovery.
 * [Percy](https://percy.io/) - Continuous visual testing.
