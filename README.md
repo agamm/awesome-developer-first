@@ -286,6 +286,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+* [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Helicone/helicone)
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
