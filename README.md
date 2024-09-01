@@ -262,12 +262,12 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
-* [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
+* [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer, and data synchronization.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
 * [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. [![Novu](https://img.shields.io/github/stars/novuhq/novu?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/novuhq/novu)
-* [Stream](https://getstream.io/) - Feed and chat as a service.
+* [Stream](https://getstream.io/) - APIs and SDKs to build in-app chat, video, and feeds faster.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
