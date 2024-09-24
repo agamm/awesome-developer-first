@@ -290,13 +290,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/opik)
 * [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ## Natural Language Processing
 *Interactions with natural language.*
-* [CometLLM](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google. 
 
 ## Orchestration
