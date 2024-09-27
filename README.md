@@ -144,6 +144,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Debugging 
 *Tools that help in tracking bugs.*
+* [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Linear](https://linear.app/) - Issue tracking built for developers.
 * [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
