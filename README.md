@@ -98,6 +98,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/n8n-io/n8n)
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
+* [Lil'bots](https://www.lilbots.io/) - create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic and more.
 
 ## Backend-as-a-Service
 *Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
