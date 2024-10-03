@@ -249,6 +249,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 * [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
 * [Sendgrid](https://sendgrid.com/) - Email API.
+* [Heybounce](https://www.heybounce.io/) - Email verification API that checks if an email exists.
 
 ## Media
 *Media APIs (optimization, CDN).*
