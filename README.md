@@ -242,6 +242,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Sending emails as a service.*
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
+* [Heybounce](https://www.heybounce.io/) - Email verification API.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 * [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 * [Lob](https://www.lob.com/) - Email and address verification.
