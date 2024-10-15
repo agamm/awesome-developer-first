@@ -261,7 +261,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
-* [Mux](https://mux.com/) -  APIs to upload, manage, and stream video.
+* [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
