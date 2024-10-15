@@ -59,6 +59,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Analytics
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+* [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
@@ -95,6 +96,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Automation
 *Automate workflows via APIs and SDKs.*
 * [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
+* [Lil'bots](https://www.lilbots.io/) - Create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic, and more.
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/n8n-io/n8n)
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
 
@@ -240,6 +242,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Sending emails as a service.*
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
+* [Heybounce](https://www.heybounce.io/) - Email verification API.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 * [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 * [Lob](https://www.lob.com/) - Email and address verification.
@@ -289,14 +292,15 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Helicone/helicone)
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
+* [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/langfuse/langfuse)
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/opik)
 * [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ## Natural Language Processing
 *Interactions with natural language.*
-* [CometLLM](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google. 
 
 ## Orchestration
