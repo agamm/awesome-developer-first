@@ -67,7 +67,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/posthog/posthog)
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
-* [Tinybird](https://www.tinybird.co/) - Real-time data s to APIs.
+* [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
@@ -165,7 +165,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
-* [Quix](https://quix.io/) - One tool to build and run event ing applications. 
+* [Quix](https://quix.io/) - One tool to build and run event streaming applications. 
 * [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
@@ -261,7 +261,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
-* [Mux](https://mux.com/) - Feed and chat as a service.
+* [Mux](https://mux.com/) -  APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
@@ -271,7 +271,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
 * [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. [![Novu](https://img.shields.io/github/stars/novuhq/novu?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/novuhq/novu)
-* [Stream](https://getstream.io/) - APIs and SDKs to build in-app chat, video, and feeds faster.
+* [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
