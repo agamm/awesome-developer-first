@@ -194,7 +194,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 * [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ## Feature Flags
