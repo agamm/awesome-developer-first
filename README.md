@@ -1,9 +1,8 @@
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 A curated list of awesome developer-first products.  
 (👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
-You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :) 
+You can follow [Agam](https://x.com/agammore) and [Flo](https://x.com/fmerian) for more dev related content :) 
 
 The definition of developer-first for this repo is:
 * Developers are the target audience.
@@ -64,7 +63,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/plausible/analytics)
-* * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+* * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/posthog/posthog)
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
@@ -82,13 +81,15 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. [![Hanko](https://img.shields.io/github/stars/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/teamhanko/hanko)
 * [Kinde](https://kinde.com/) - Authentification and user management as a service.
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
-* [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+* [Magic.link](https://magic.link) - Passwordless (email-based) log-in as a service.
 * [MojoAuth](https://mojoauth.com/) - Complete CIAM solution with Enterprise SSO and extensive out-of-the-box enterprise features.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 * [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
+* [PropelAuth](https://www.propelauth.com/) - Team-based authentication. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. [![SuperTokens](https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supertokens/supertokens-core)
+* [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative. [![stack-auth](https://img.shields.io/github/stars/stack-auth/stack?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/stack-auth/stack) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
@@ -98,14 +99,14 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
 * [Lil'bots](https://www.lilbots.io/) - Create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic, and more.
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/n8n-io/n8n)
-* [Potpie](https://potpie.ai) - Open source AI agents for your codebase in minutes. Use pre-built agents for Q&A, testing, debugging and system design or create your own purpose-built agents. [![potpie](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/potpie-ai/potpie)
-* [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
-
+* [Potpie](https://potpie.ai) - Open source AI agents for your codebase in minutes. Use pre-built agents for Q&A, testing, debugging, and system design, or create your own purpose-built agents. [![potpie](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/potpie-ai/potpie)
+* [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 
 ## Backend-as-a-Service
 *Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
 * [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/appwrite/appwrite)
-* [Supabase](https://supabase.io/) - Hosted and open source managed Postgres DB like Firebase. [![Supabase](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supabase/supabase)
+* [Jamsocket](https://jamsocket.com/) - Backends for real-time apps. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
+* [Supabase](https://supabase.com/) - Hosted and open-source managed Postgres DB like Firebase. [![Supabase](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supabase/supabase) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 
 ## CI/CD
 *Continuous Integration/Delivery.*
@@ -128,6 +129,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Check your code quality.*
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 * [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
+* [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
 
 ## Computer Vision
@@ -143,7 +145,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/crate/crate)
 * [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/neondatabase/neon)
-* [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+* [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any database.
+* [Outerbase](https://outerbase.com/) - AI-powered database UI. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 * [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
@@ -156,19 +159,21 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
 * [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
+* [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Cycle.io](https://www.cycle.io/) - DevOps platform for building platforms. Handles container orchestration, load-balancing, monitoring, and more.
 * [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 * [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
-* [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
+* [Fly.io](https://fly.io/) - Deploy dockerized full-stack apps via a location-aware service (latency reduction).
 * [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
-* [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
+* [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab, or Bitbucket and host headless WordPress.
 * [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
 * [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 * [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+* [Propel](https://www.propeldata.com/) - Serverless ClickHouse platform. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
 * [Quix](https://quix.io/) - One tool to build and run event streaming applications. 
-* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
+* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto-scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 * [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
@@ -176,7 +181,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Discussions
 *Comments and forums.*
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
-* [Commento](https://commento.io/) - Privacy centric embeddable comment system.
+* [Commento](https://commento.io/) - Privacy-centric embeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community-driven app.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 
@@ -185,8 +190,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Apidog](https://apidog.com/) - All-in-one API documentation tool, 1-click to generate API documentation from requests.
 * [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
-* [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). [![Mintlify](https://img.shields.io/github/stars/mintlify/writer?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/mintlify/writer)
+* [Mintlify](https://www.mintlify.com/) - NextJS-based, AI-powered platform for documentation sites.
 * [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
+* [Speakeasy](https://speakeasy.com/) - API tooling for SDKs, API docs, Terraform providers, and end-to-end testing. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
 ## Environment & Secret Management
@@ -194,8 +200,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
+* [KeyHippo](https://www.keyhippo.com/) - API Keys for Postgres RLS. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
-* [Vault](https://www.vaultproject.io/) - API driven secret key management.
+* [Vault](https://www.vaultproject.io/) - API-driven secret key management.
 
 ## Feature Flags
 *Control production features with conditional flags in your code.*
@@ -208,6 +215,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## GEO
 *Location services.*
+* [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 * [OpenCage](https://opencagedata.com/) - Forward and reverse geocoding API based on open data.
 * [PlaceKit](https://placekit.io/) - Locations search API.
@@ -225,12 +233,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Infrastructure as Code
 *Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
 * [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/hashicorp/terraform)
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source, and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/hashicorp/terraform)
 
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
-* [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/NangoHQ/nango)
+* [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/nangoHQ/nango?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/NangoHQ/nango)
+* [OpenInt](https://openint.dev/) - Open-source embeddable product integrations. [![OpenInt](https://img.shields.io/github/stars/openintegrations/openint?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/openintegrations/openint) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/panoratech/panora)
 * [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/revertinc/revert)
 * [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
@@ -240,6 +249,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Localization
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
+* [Replexica](https://replexica.com/) - AI localization infrastructure. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
 
 ## Mail
@@ -281,12 +291,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
-* [Defer](https://defer.run/) - Serverless Node.js background jobs.
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
+* [Magic Patterns](https://magicpatterns.com/) - Prototype product ideas with AI. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
+* [Tempo Labs](https://tempolabs.ai/) - Code-first Figma alternative. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 
 ## Monitoring
@@ -297,10 +308,13 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [Keywords AI](https://www.keywordsai.co/) - The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.
-* [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/langfuse/langfuse)
+* [Laminar](https://www.lmnr.ai/) - Open-source platform for tracing, evaluating, and labeling LLM products. [![lmnr](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/lmnr-ai/lmnr) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
+* [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/langfuse/langfuse)
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Pinecone](https://www.pinecone.io/) - AI infrastructure for building accurate, secure, and scalable AI apps. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/comet-ml/opik)
 * [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
+* [Quivr](https://quivr.com/) - Open-source RAG framework to deploy and use AI agents. [![quivr](https://img.shields.io/github/stars/QuivrHQ/quivr?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/QuivrHQ/quivr) [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
@@ -310,9 +324,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
-* [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
 * [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
-* [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
+* [Camunda](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## Payments & Pricing
 *Handling payments, credit card processing, and invoices.*
@@ -320,8 +333,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Increase](https://increase.com/) - Bare-metal banking APIs.
 * [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
 * [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
-* [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
-* [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+* [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike Stripe at the moment).
+* [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers), and get bank information.
 * [Stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
@@ -335,8 +348,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
-* [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
-* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
+* [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
+* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
@@ -353,7 +366,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Search
 *Index and search your content as a service API.*
 * [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
-* [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine. [![Meilisearch](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/meilisearch/meilisearch)
+* [Meilisearch](https://www.meilisearch.com/) - Open-source, fast, and relevant search engine. [![Meilisearch](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/meilisearch/meilisearch)
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. [![Typesense](https://img.shields.io/github/stars/typesense/typesense?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/typesense/typesense)
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
@@ -380,11 +393,14 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 * [CodSpeed](codspeed.io) - Continuous Performance Testing in CI environments.
+* [Coval](https://coval.dev/) - Simulation and evals for AI agents. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
+* [Fiberplane](https://fiberplane.com/) - Test and debug Hono APIs. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. [![Firecamp](https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/firecamp-dev/firecamp)
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
-* [Octomind](https://www.octomind.dev/) -  Auto-generated, run and maintained Playwright UI tests with AI-assisted test case discovery.
+* [Octomind](https://www.octomind.dev/) -  Auto-generated, run, and maintained Playwright UI tests with AI-assisted test case discovery.
 * [Percy](https://percy.io/) - Continuous visual testing.
+* [Synth](https://usesynth.ai) - Automated AI agent optimization. [![LW24 participant](https://img.shields.io/badge/LW24%20participant-0D1117.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Testim](https://www.testim.io/) - Frontend testing.
 
 ---
