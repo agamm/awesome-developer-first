@@ -5,14 +5,14 @@ These are entries that were almost up for being in the main readme but I've deci
 ## Analytics
 * [Amplitude](https://amplitude.com/) - Has good analytics APIs, directly measure KPIs. [Not developer-first enough]
 
-## Auth
-* [Magic.link](https://magic.link) - Passwordless (email-based) log-in as a service. [Pivoted]
+## Crypto
+* [Magic.link](https://magic.link) - API wallets. [Pivoted]
+
+## CI/CD
+* [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket. [Acquired]
 
 ## Computer Vision
 * [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications. [Not developer-first enough]
-
-## Deployment
-* [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket. [Acquired]
 
 ## Monitoring
 * [Dashbird](https://dashbird.io/) - Serverless realtime monitoring. [Not developer-first enough]
