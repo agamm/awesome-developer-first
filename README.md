@@ -116,6 +116,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 * [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. [![Gitpod](https://img.shields.io/github/stars/gitpod-io/gitpod?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/gitpod-io/gitpod)
 * [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
+* [Terrateam](https://github.com/terrateamio/terrateam) - GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi.
 
 ## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
