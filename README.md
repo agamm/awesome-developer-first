@@ -295,6 +295,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Monitoring
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
+* [Anteon](https://getanteon.com/) - Kubernetes monitoring and performance testing — available on CLI, self-hosted, and cloud. [![Anteon](https://img.shields.io/github/stars/getanteon/anteon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/getanteon/anteon)
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Helicone/helicone)
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
@@ -379,7 +380,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Testing
 *Testing tools.*
-* [Anteon](https://getanteon.com/) - Distributed Performance Testing Platform.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
