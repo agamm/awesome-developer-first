@@ -116,7 +116,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 * [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. [![Gitpod](https://img.shields.io/github/stars/gitpod-io/gitpod?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/gitpod-io/gitpod)
 * [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
-* [Terrateam](https://terrateam.io/) - GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi. [![Terrateam](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/terrateamio/terrateam)
 
 ## CMS (headless)
 *Backend only Content Management System, you decide on frontend and consume content via API.*
@@ -239,6 +238,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 *Declare your infrastructure and reproducibly provision cloud infrastructure from it.*
 * [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source, and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/hashicorp/terraform)
+* [Terrateam](https://terrateam.io/) - GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi. [![Terrateam](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/terrateamio/terrateam)
 
 ## Integrations
 *Integration management systems or products that ease integration development.*
