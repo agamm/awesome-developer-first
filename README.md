@@ -24,6 +24,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
+* [Code Security](#ai-code-security)
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Debugging](#debugging)
@@ -132,6 +133,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
 * [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
+
+## AI Code Security
+*Leverage the productivity of AI coding assistants without compromising security*
+* [CodeGate](https://github.com/stacklok/codegate) - AI coding without compromise. CodeGate protects, encrypts, and keeps developers in control when using AI coding assistant tools.
 
 ## Computer Vision
 *Manipulate and detect visual data.*
