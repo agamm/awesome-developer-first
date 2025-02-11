@@ -234,6 +234,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [GoCodeo](https://www.gocodeo.com/)- An AI coding & testing agent.
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 * [MarsCode](https://www.marscode.com/?utm_source=github&utm_medium=rm) - AI-powered cloud-based IDE.
+* [OneCompiler](https://onecompiler.com/) - A versatile, AI-powered Online IDE supporting over 70+ programming languages, designed for developers to write, compile, and execute code seamlessly.
 
 ## Infrastructure as Code
 *Declare your infrastructure and reproducibly provision cloud infrastructure from it.*
