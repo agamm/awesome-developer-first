@@ -74,7 +74,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
-* [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
+* [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and .js.
 * [Corbado](https://corbado.com) - Passkey-first authentication as a service.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
@@ -178,7 +178,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Reflex](https://reflex.dev/) - Python framework to build and deploy
 web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/reflex-dev/reflex)
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
+* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly .js) projects.
 * [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
 ## Discussions
@@ -209,7 +209,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Feature Flags
 *Control production features with conditional flags in your code.*
-* [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
+* [Bucket](https://bucket.co) - Feature flagging for React, Node.js, Next.js, with CLI, Toolbar, Event log, and more. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/growthbook/growthbook)
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
@@ -256,7 +256,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Localization
 *Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
-* [Locize](https://locize.com) - The translation management system created by the creators of i18next. Work with writers in dev/stage env before hitting prod.
+* [Locize](https://locize.com) - The translation management system created by the creators of i18. Work with writers in dev/stage env before hitting prod.
 * [Replexica](https://replexica.com/) - AI localization infrastructure. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
 
