@@ -27,6 +27,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Computer Vision](#computer-vision)
 * [Databases & Spreadsheets](#databases--spreadsheets)
 * [Debugging](#debugging)
+* [Developer Tools Discovery](#developer-tools-discovery)
 * [Deployment Hosting](#deployment-hosting)
 * [Discussions](#discussions)
 * [Documentation](#documentation)
@@ -158,6 +159,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Linear](https://linear.app/) - Issue tracking built for developers.
 * [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
+
+## Developer Tools Discovery
+*Platforms for discovering and evaluating developer tools and services.*
+* [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
 
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
