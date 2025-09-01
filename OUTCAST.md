@@ -14,6 +14,9 @@ These are entries that were almost up for being in the main readme but I've deci
 ## Computer Vision
 * [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications. [Not developer-first enough]
 
+## Misc
+* [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app. [Acquired]
+
 ## Monitoring
 * [Dashbird](https://dashbird.io/) - Serverless realtime monitoring. [Not developer-first enough]
 * [LogDNA](https://logdna.com/) - Log management and alerts. [Not developer-first enough]
