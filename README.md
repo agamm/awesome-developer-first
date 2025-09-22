@@ -80,19 +80,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
 
-## Analytics
-*Track web/app visitors.*
-* [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
-* [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
-* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
-* [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
-* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
-* [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/plausible/analytics)
-* [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
-* [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/posthog/posthog) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
-* [Repohistory](https://repohistory.com/) - GitHub repo analytics tool. [![Repohistory](https://img.shields.io/github/stars/repohistory/repohistory?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/repohistory/repohistory)
-* [Segment](https://segment.com/) - Collect user data and send it to your other tools.
-* [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
+
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
@@ -340,6 +328,9 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [ToolHover](https://toolhover.com) - Clean, free online utilities for
+  text, QR, JSON & more.
+
 
 ## Monitoring
 *Monitoring your production application.*
