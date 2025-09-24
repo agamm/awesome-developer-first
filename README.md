@@ -61,7 +61,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *AI IDEs and AI Assistants.*
 * [Aider](https://aider.chat/) - Open-source terminal AI assistant. [![aider](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Aider-AI/aider)
 * [Amazon Q](https://aws.amazon.com/q/developer/) - Amazon’s AI assistant.
-* [Cline](https://cline.bot/) - An open source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/cline/cline)
+* [Cline](https://cline.bot/) - Open-source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/cline/cline)
 * [CodeParrot](https://codeparrot.ai/) - Frontend component AI assistant for VS Code.
 * [CodeSquire](https://codesquire.ai) - Browser extension for AI generation in Jupyter/BigQuery etc…
 * [Cody](https://sourcegraph.com/cody) - Sourcegraph’s coding assistant.
@@ -72,7 +72,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [IntelliCode](https://visualstudio.microsoft.com/services/intellicode) - Visual Studio’s AI offering from Microsoft.
 * [JetBrains AI](https://www.jetbrains.com/ai) - JetBrains’s AI offering integrated into most of their IDEs.
 * [Jolt AI](https://usejolt.ai) - An AI codegen and chat tool for 100k to multi-million line codebases that automatically identifies context files, handles multi-file changes, and matches code styles.
-* [OpenHands](https://all-hands.dev/) - OpenDevin an open-source devin alternative. [![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/All-Hands-AI/OpenHands)
+* [Kilo Code](https://kilocode.ai) - Fast, open-source AI coding agent for VS Code and JetBrains. [![Kilo Code](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Kilo-Org/kilocode)
+* [OpenHands](https://all-hands.dev/) - an open-source Devin alternative. [![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/All-Hands-AI/OpenHands)
 * [Qodo](https://www.qodo.ai/) - Focusing on confident code generation (focused on testing well).
 * [Replit AI](http://repl.it/) - Replit’s code IDE using AI (has also a free limited plan).
 * [Supermaven](https://supermaven.com/) - Heard really good things, especially around speed and context length.
