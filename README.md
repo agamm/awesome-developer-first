@@ -387,6 +387,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Repo
 *Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
+* [Buildstash](https://buildstash.com/) - Binary artifact and release management for app, game, and embedded software.
 * [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Reports Generation
