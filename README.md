@@ -85,6 +85,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
+* [en-git](https://en-git.vercel.app/) - Open-source analytics platform for GitHub profiles/repos, with embeddable widgets, AI insights, and a code-quality Chrome extension. [![en-git](https://img.shields.io/github/stars/TejasS1233/en-git?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TejasS1233/en-git)
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
