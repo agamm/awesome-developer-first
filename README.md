@@ -407,6 +407,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 * [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [Proxy Sentinel](https://www.proxysentinel.io) - A self-managed proxy rotator.
+* [ScraperCity](https://scrapercity.com) - Web scraping API with specialized pre-built scrapers for Apollo.io, Google Maps, and YouTube. Built-in proxy rotation, JavaScript rendering, and CAPTCHA handling.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
