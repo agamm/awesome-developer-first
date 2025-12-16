@@ -434,6 +434,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Testing
 *Testing tools.*
+* [Advanced API Tester](https://harislab.tech/Tools/Developer-Tools/API-Tester) – Browser-based tool to test REST and GraphQL APIs quickly. Lightweight, privacy-focused, runs entirely in the browser.
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing.
 * [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
