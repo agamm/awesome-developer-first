@@ -399,6 +399,8 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 * [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 * [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
+* [JSON Viewer Tool](https://jsonviewertool.com/) – Online tool to view, format, validate, minify, and convert JSON data in the browser.
+
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
