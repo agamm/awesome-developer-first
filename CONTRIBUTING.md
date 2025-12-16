@@ -6,6 +6,7 @@ Terms of relevant products:
 - Abundantly clear that is marketed for developers.
 - "Headless", "API-First", "SaaS" are frequently used keywords.
 - Usually this means that the front page has some code examples :)
+- Reached a significant milestone: 1K GH Stars, 1K followers, awarded on Product Hunt, and/or SOC-2 compliant.
 - Products - tools/services that people pay for.
 
 **If you aren't adding the only player in the category, please post the other competitors and explain why this product is the most awesome from the bunch.**
