@@ -340,6 +340,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [Vedika](https://vedika.io/) - AI-powered Vedic astrology API for matrimony apps, wellness platforms, and horoscope features with 108+ endpoints.
 
 ## Monitoring
 *Monitoring your production application.*
