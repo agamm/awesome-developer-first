@@ -339,6 +339,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
+* [THEJORD](https://thejord.it) - Privacy-first developer tools suite (JSON formatter, Base64, Regex tester, Hash generator, PDF tools). All client-side. [![](https://img.shields.io/github/stars/thejord-it/thejord-web?style=flat)](https://github.com/thejord-it/thejord-web)
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
