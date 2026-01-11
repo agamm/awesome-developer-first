@@ -336,6 +336,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+* [PikaSim](https://pikasim.com/reseller) - Privacy-first eSIM API for 190+ countries. Webhooks, cancel unused eSIMs for refund, no customer data needed.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
