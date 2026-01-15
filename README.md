@@ -66,6 +66,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CodeSquire](https://codesquire.ai) - Browser extension for AI generation in Jupyter/BigQuery etc…
 * [Cody](https://sourcegraph.com/cody) - Sourcegraph’s coding assistant.
 * [Continue](https://www.continue.dev/) - AI coding assistant for VS Code and JetBrains.
+* [CopilotHub](https://copilothub.directory) - Curated directory of AI prompts, agents, tools, and MCP servers for GitHub Copilot.
 * [Cursor](https://www.cursor.com/) - A VS Code fork built from the ground up with AI.
 * [Fine](https://www.fine.dev/) - Build Software with AI Agents. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [GitHub Copilot](https://github.com/features/copilot) - The “OG” AI IDE everyone heard about. Still kind of feels behind, but does integrate nicely with GitHub.
