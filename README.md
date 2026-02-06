@@ -206,6 +206,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 * [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 * [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
+* [MyVibe](https://www.myvibe.so/) - Instant deployment for Claude Code projects.
 
 ## Discussions
 *Comments and forums.*
