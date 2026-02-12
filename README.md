@@ -340,6 +340,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
+* [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, real-time collaboration, workflow automation, and open-source MCP server. [![Taskade](https://img.shields.io/github/stars/taskade/mcp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/taskade/mcp)
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
