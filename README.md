@@ -457,3 +457,5 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+
+- [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code supporting Claude Code, Codex, Gemini, and Copilot.
