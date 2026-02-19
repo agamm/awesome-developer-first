@@ -317,6 +317,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
+* [ogimg.xyz](https://ogimg.xyz/) - API to generate Open Graph images from templates. No headless browser, runs on edge.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
