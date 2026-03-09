@@ -410,6 +410,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 * [WebScrapingHQ](https://www.webscrapinghq.com/) - Webscraping API and fully managed service.
 * [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction API — 76 REST endpoints, 20 bulk extraction tools, MCP server, HMAC webhooks. [\![Xquik](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Xquik-dev/x-twitter-scraper)
 
 ## Search
 *Index and search your content as a service API.*
