@@ -429,6 +429,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
+* [ReleaseRun](https://releaserun.com) - Free tools to check your stack for EOL dependencies, outdated versions, and security vulnerabilities. Covers K8s YAML security, GitHub Actions security, Terraform misconfiguration, Docker Compose security, and dep health for npm/PyPI/Go/Rust/Maven.
 
 
 ## Shipping
