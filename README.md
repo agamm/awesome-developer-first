@@ -84,6 +84,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Analytics
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+* [GEOScore AI](https://geoscoreai.com/) - AI search visibility scanner for measuring website performance in AI search engines (ChatGPT, Perplexity, Gemini).
 * [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
