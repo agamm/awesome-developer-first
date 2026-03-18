@@ -189,6 +189,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Deployment Hosting
 *Products that help you deploy your app/website.*
 * [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
+* [AZIN](https://azin.run) - BYOC deployment platform. Deploy to your own GCP account with a git-push workflow, no Kubernetes config needed.
 * [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Cycle.io](https://www.cycle.io/) - DevOps platform for building platforms. Handles container orchestration, load-balancing, monitoring, and more.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
