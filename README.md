@@ -345,6 +345,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Monitoring
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
+* [API Status Check](https://apistatuscheck.com/) - Real-time API and service status monitoring dashboard tracking 500+ services with outage detection and historical uptime data. [![API Status Check](https://img.shields.io/github/stars/shibley/apistatuscheck?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/shibley/apistatuscheck)
 * [Anteon](https://getanteon.com/) - Kubernetes monitoring and performance testing — available on CLI, self-hosted, and cloud. [![Anteon](https://img.shields.io/github/stars/getanteon/anteon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/getanteon/anteon)
 * [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 * [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Helicone/helicone)
