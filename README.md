@@ -268,6 +268,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 * [MarsCode](https://www.marscode.com/?utm_source=github&utm_medium=rm) - AI-powered cloud-based IDE.
 * [OneCompiler](https://onecompiler.com/) - A versatile, AI-powered Online IDE supporting over 70+ programming languages, designed for developers to write, compile, and execute code seamlessly.
+* [Yaw](https://yaw.sh/) - Cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 
 ## Infrastructure as Code
 *Declare your infrastructure and reproducibly provision cloud infrastructure from it.*
