@@ -420,6 +420,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 * [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. [![Typesense](https://img.shields.io/github/stars/typesense/typesense?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/typesense/typesense)
 * [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
+* [IndexFox](https://indexfox.ai/) - Embeddable AI search widget for websites. One script tag, automatic crawling, hybrid keyword + semantic search.
 
 ## Security
 *Products that secure your codebase.*
