@@ -59,6 +59,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## AI Coding
 *AI IDEs and AI Assistants.*
+* [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) - Open pricing dataset for AI coding tools (Copilot, Cursor, Claude Code, Windsurf, Amazon Q, Tabnine, JetBrains AI, Gemini). JSON + TypeScript types. [![ai-coding-tools-pricing](https://img.shields.io/github/stars/lunacompsia-oss/ai-coding-tools-pricing?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/lunacompsia-oss/ai-coding-tools-pricing)
 * [Aider](https://aider.chat/) - Open-source terminal AI assistant. [![aider](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Aider-AI/aider)
 * [Amazon Q](https://aws.amazon.com/q/developer/) - Amazon’s AI assistant.
 * [Cline](https://cline.bot/) - Open-source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/cline/cline)
