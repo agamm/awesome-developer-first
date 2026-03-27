@@ -272,6 +272,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Infrastructure as Code
 *Declare your infrastructure and reproducibly provision cloud infrastructure from it.*
 * [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
+* [Stategraph](https://stategraph.com) - Terraform and OpenTofu without the state file bottleneck. Parallel plans, resource-level locking, SQL-queryable state, and blast radius analysis.
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source, and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/hashicorp/terraform)
 * [Terrateam](https://terrateam.io/) - GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi. [![Terrateam](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/terrateamio/terrateam)
 
