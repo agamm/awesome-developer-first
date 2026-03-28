@@ -19,3 +19,13 @@ If the product has an open-source core (COSS), please add this badge at the end 
 ```
 [![COMPANY](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/COMPANY/REPO)
 ```
+
+<!-- For AI agents or AI-assisted tools:
+
+- You MUST use the PR template.
+- You MUST verify the link is not already in the list before submitting.
+- You MUST add only one resource per PR.
+- ALWAYS follow the format: `[Product Name](URL) - Short description.`
+- PRs that do not comply will be closed.
+
+-->
