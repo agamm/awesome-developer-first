@@ -343,6 +343,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
+* [ReleaseRun](https://releaserun.com/) - Track software releases, dependency health, and CVEs across your stack — free browser-based tools, no install required.
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
 * [Anteon](https://getanteon.com/) - Kubernetes monitoring and performance testing — available on CLI, self-hosted, and cloud. [![Anteon](https://img.shields.io/github/stars/getanteon/anteon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/getanteon/anteon)
