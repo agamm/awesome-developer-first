@@ -340,6 +340,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
+* [ToolPipe](https://assessing-scoop-authorities-sheet.trycloudflare.com) - Free developer utility APIs: 70+ endpoints for browser automation, screenshots, PDFs, scraping, and text tools. No auth required.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
