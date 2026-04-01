@@ -317,6 +317,8 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
+* [OGForge](https://ogforge.dev/) - Open Graph image generation API.
+* [PageShot](https://pageshot.dev/) - Website screenshot API.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
@@ -335,10 +337,12 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
+* [LinkShrink](https://linkshrink.dev/) - URL shortener API, free and no auth required.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
+* [QRMint](https://qrmint.dev/) - QR code generation API, free and no auth required.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
@@ -396,6 +400,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 * [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 * [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
+* [PDFSpark](https://pdfspark.dev/) - HTML to PDF API.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
@@ -403,6 +408,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
 * [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 * [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
+* [LinkMeta](https://linkmeta.dev/) - Link metadata extraction API.
 * [Proxy Sentinel](https://www.proxysentinel.io) - A self-managed proxy rotator.
 * [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
