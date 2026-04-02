@@ -333,6 +333,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [Goosekit](https://goosekit.dev/) - Free browser-based developer utilities (JSON, SQL, regex, hash, cURL converter). No signup, all client-side.
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
