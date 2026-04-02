@@ -340,7 +340,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
-* [ToolPipe](https://toolpipe.dev) - 145+ developer utility APIs (QR codes, hashing, JSON formatting, text analysis, and more) with MCP server support. [![ToolPipe](https://img.shields.io/github/stars/Aldric-Core/toolpipe-mcp-server?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Aldric-Core/toolpipe-mcp-server)
+* [ToolPipe](https://toolpipe.dev) - 238+ free developer utility APIs (JSON formatting, QR codes, hash generation, UUID, DNS, WHOIS, PDF, text analysis, image processing, and more). No signup required. Also available as an [MCP server](https://toolpipe.dev/mcp). [![ToolPipe](https://img.shields.io/github/stars/COSAI-Labs/make-money-30day-challenge?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/api-service)
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
