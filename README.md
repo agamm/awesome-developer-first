@@ -341,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [Fluranto](https://www.fluranto.com/en/developer) - Browser-first developer tools for JSON, Base64, JWT, regex, URLs, and format conversion. No signup required; sensitive payloads stay in the browser.
 
 ## Monitoring
 *Monitoring your production application.*
