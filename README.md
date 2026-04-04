@@ -341,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [ToolPipe](https://toolpipe.dev) - 120+ developer utility APIs and MCP server. JSON formatting, hashing, QR codes, DNS lookup, code generation, and more.
 
 ## Monitoring
 *Monitoring your production application.*
