@@ -16,6 +16,7 @@ The definition of developer-first for this repo is:
 
 For the latest additions [click here](https://github.com/agamm/awesome-developer-first/commits/main).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Developer-first approach to AI automation. MIT licensed.
 ## Contents
 * [AI Coding](#ai-coding)
 * [Analytics](#analytics)
