@@ -429,6 +429,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
+* [Asqav](https://asqav.com/) - AI agent governance SDK with quantum-safe audit trails and policy enforcement. Open-source. [![Asqav](https://img.shields.io/github/stars/jagmarques/asqav-sdk?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/jagmarques/asqav-sdk)
 
 
 ## Shipping
