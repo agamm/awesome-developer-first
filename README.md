@@ -73,6 +73,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [JetBrains AI](https://www.jetbrains.com/ai) - JetBrains’s AI offering integrated into most of their IDEs.
 * [Kilo Code](https://kilocode.ai) - Fast, open-source AI coding agent for VS Code and JetBrains. [![Kilo Code](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Kilo-Org/kilocode)
 * [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/mastra-ai/mastra)
+* [Onepilot](https://onepilotapp.com/) - Mobile app to SSH into servers and run AI coding agents (Claude Code, Codex) from your phone.
 * [OpenHands](https://all-hands.dev/) - an open-source Devin alternative. [![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/All-Hands-AI/OpenHands)
 * [Qodo](https://www.qodo.ai/) - Focusing on confident code generation (focused on testing well).
 * [Replit AI](http://repl.it/) - Replit’s code IDE using AI (has also a free limited plan).
