@@ -341,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [DevTools](https://devtools.davrapps.dev) - 28 free browser-based developer utilities (JSON formatter, Base64, JWT decoder, UUID generator, regex tester, diff checker, SQL formatter, etc). Open source, MIT licensed, fully client-side.
 
 ## Monitoring
 *Monitoring your production application.*
