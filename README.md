@@ -81,6 +81,8 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
 
+* [CCHub](https://github.com/Moresl/cchub) - Open-source desktop app to manage Claude Code ecosystem: MCP servers, config profiles, skills, workflows, and security auditing. [![CCHub](https://img.shields.io/github/stars/Moresl/cchub?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Moresl/cchub)
+
 ## Analytics
 *Track web/app visitors.*
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
