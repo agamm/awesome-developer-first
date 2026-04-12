@@ -424,6 +424,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Security
 *Products that secure your codebase.*
+* [Exogram Agent Safety Analyzer](https://exogram.ai/tools/agent-safety-analyzer) - A live simulation tool demonstrating deterministic execution firewalls for LLM agents.
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/infisical/infisical)
