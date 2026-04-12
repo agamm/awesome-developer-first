@@ -313,6 +313,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Bytescale](https://bytescale.com) - File storage and processing APIs.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
+* [FilePost](https://filepost.dev/) - REST API to upload any file and get back a permanent public CDN URL. Simple alternative to setting up S3 for file hosting.
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
