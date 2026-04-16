@@ -333,6 +333,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [AI Dev Jobs](https://aidevboard.com/) - API-first job board for AI and ML engineering roles with REST API and MCP server integration.
 * [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/dailydotdev/daily)
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
