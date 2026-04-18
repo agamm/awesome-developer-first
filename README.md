@@ -80,6 +80,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
+* [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev) - Side-by-side comparison of AI coding tools with pricing, features, and free alternatives.
 
 ## Analytics
 *Track web/app visitors.*
