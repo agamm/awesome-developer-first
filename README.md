@@ -10,7 +10,6 @@ The definition of developer-first for this repo is:
 * Usually, this means that the front page has some code examples.
 * Products - tools/services that people pay for.
 
-```diff
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
@@ -342,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+- [TimeClick](https://timeclick-software.github.io/time-tracking-tools/) - Simple and reliable time tracking and payroll management software for small businesses and construction teams.
 
 ## Monitoring
 *Monitoring your production application.*
