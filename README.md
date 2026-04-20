@@ -332,6 +332,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Misc
 *Different products that probably don't have a category.*
+* [FinData MCP](https://github.com/sapph1re/findata-mcp) - Financial data API for AI agents and MCP clients. Provides stock quotes, company fundamentals, economic indicators, SEC filings, and crypto prices via x402 micropayments.
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 * [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/dailydotdev/daily)
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
