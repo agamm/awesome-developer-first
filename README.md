@@ -217,6 +217,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Documentation
 *Documentation solutions.*
 * [Apidog](https://apidog.com/) - All-in-one API documentation tool, 1-click to generate API documentation from requests.
+* [Shiplog](https://shiplog.page) - Polished changelog onto your own public page (yourapp.shiplog.page). Publish entries via UI dashboard or CLI.
 * [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 * [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 * [Fern](https://www.buildwithfern.com/) - Instant docs and SDKs for APIs.
