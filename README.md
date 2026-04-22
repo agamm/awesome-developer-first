@@ -87,6 +87,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
+* [Murmure](https://murmure.cc) - Community intelligence reports tracking what developers say about AI tools on Reddit and HN.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/plausible/analytics)
 * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
