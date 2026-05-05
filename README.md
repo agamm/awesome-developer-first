@@ -61,6 +61,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *AI IDEs and AI Assistants.*
 * [Aider](https://aider.chat/) - Open-source terminal AI assistant. [![aider](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Aider-AI/aider)
 * [Amazon Q](https://aws.amazon.com/q/developer/) - Amazon’s AI assistant.
+* [Bernstein](https://bernstein.run) - Open-source orchestrator that runs CLI coding agents (Claude Code, Codex, Gemini CLI) in parallel with deterministic scheduling. [![bernstein](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/sipyourdrink-ltd/bernstein)
 * [Cline](https://cline.bot/) - Open-source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/cline/cline)
 * [CodeParrot](https://codeparrot.ai/) - Frontend component AI assistant for VS Code.
 * [CodeSquire](https://codesquire.ai) - Browser extension for AI generation in Jupyter/BigQuery etc…
