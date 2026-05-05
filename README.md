@@ -296,6 +296,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Mail
 *Sending emails as a service.*
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
+* [Ansel Forms](https://anselforms.com) - Process private form submissions and receive them seamlessly via email .
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Heybounce](https://www.heybounce.io/) - Email verification API.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
