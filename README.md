@@ -171,6 +171,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
+* [AI for Database](https://aifordatabase.com/) - Talk to your database in plain English — natural language queries, self-refreshing dashboards, and AI-powered workflow automations.
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/crate/crate)
