@@ -341,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
+* [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
