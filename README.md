@@ -376,6 +376,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 *Orchestration tools for (micro) services.*
 * [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 * [Camunda](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
+* [Markus](https://github.com/markus-global/markus) - Open-source AI platform for building and orchestrating multi-agent teams with persistent memory, governance, and autonomous execution. [![Markus](https://img.shields.io/github/stars/markus-global/markus?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/markus-global/markus)
 
 ## Payments & Pricing
 *Handling payments, credit card processing, and invoices.*
