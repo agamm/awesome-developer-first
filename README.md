@@ -344,6 +344,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [ScaffoldKit](https://ezra-hermes-42.github.io/scaffoldkit-store/) - Generate production-ready Python, Node.js, and Go projects with Docker, CI/CD, linting, and testing from one CLI command.
 
 ## Monitoring
 *Monitoring your production application.*
