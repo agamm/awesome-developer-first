@@ -279,6 +279,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [GoCreative AI](https://api.gocreativeai.com) - 145+ pay-per-call API endpoints for AI agents (social enrichment, OSINT, scraping, image generation). OpenAPI 3.1, native MCP server, USDC on Base via x402 + Stripe. Free 5 calls/day per IP demo tier — no signup.
 * [Metorial](https://metorial.com) - Connect AI agents to 600+ integrations with a single interface. OAuth, scaling, and monitoring included.
 * [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/nangoHQ/nango?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/NangoHQ/nango)
 * [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/panoratech/panora)
