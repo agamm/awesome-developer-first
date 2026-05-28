@@ -341,6 +341,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
+* [RedirHub](https://redirhub.com) - API-first URL redirect infrastructure at the edge, with custom nameservers, edge network, and proactive link monitoring for developers.
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
