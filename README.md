@@ -403,7 +403,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
 
 ## Scraping
-*Fetching data from websites not via an intended API.*
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - #1 LLM routing benchmark & cheapest router with memory. 47+ providers, parallel execution, ensemble voting. ([RouterArena #1](https://github.com/RouteWorks/RouterArena/pull/113))*Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - Turn websites to an API.
 * [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
 * [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
