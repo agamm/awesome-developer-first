@@ -155,6 +155,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Code Quality
 *Check your code quality.*
+
+* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+
+
 * [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 * [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
 * [DebuggAI](https://debugg.ai) - Zero-config AI browser (E2E) tests that review every commit & pull request (PR).
