@@ -387,6 +387,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers), and get bank information.
 * [Stigg](https://www.stigg.io) - API-first pricing plans.
 * [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. MCP server (zero-install) with free tools: `resolve_agent`, `score_agent`, `preflight_check`. Enables agent-to-agent x402 HTTP 402 payment flows.
 
 ## Repo
 *Repository and artifacts management.*
