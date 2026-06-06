@@ -459,6 +459,10 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ---
 
+## Other Resources
+
+- [vybing.dev](https://vybing.dev) - AI dev tool directory with benchmark-backed rankings; covers coding assistants, LLM APIs, agents, and dev tooling.
+
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
