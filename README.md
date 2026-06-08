@@ -415,6 +415,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 * [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
+* [Tabstack](https://tabstack.ai/) - Web data and automation API that delivers reliable structured output. Built at Mozilla.
 * [WebScrapingHQ](https://www.webscrapinghq.com/) - Webscraping API and fully managed service.
 * [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
 
