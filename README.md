@@ -1,5 +1,7 @@
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Sponsor](https://readme-cash--readme-cash.us-central1.hosted.app/i/bmhznittjb.svg)](https://readme-cash--readme-cash.us-central1.hosted.app/c/bmhznittjb)
+
 A curated list of awesome developer-first products.  
 (👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
 You can follow [Agam](https://x.com/agammore) and [Flo](https://x.com/fmerian) for more dev related content :) 
