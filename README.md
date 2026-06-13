@@ -24,6 +24,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Authentication & Identity](#authentication--identity)
 * [Automation](#automation)
 * [Backend-as-a-Service](#backend-as-a-service)
+* [Browser Automation](#browser-automation)
 * [CI/CD](#cicd)
 * [CMS (headless)](#cms-headless)
 * [Code Quality](#code-quality)
@@ -138,6 +139,12 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Encore](https://encore.dev/) - Open-source TypeScript backend framework for robust type-safe applications. [![Encore](https://img.shields.io/github/stars/encoredev/encore?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/encoredev/encore) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [Jamsocket](https://jamsocket.com/) - Backends for real-time apps. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 * [Supabase](https://supabase.com/) - Hosted and open-source managed Postgres DB like Firebase. [![Supabase](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supabase/supabase) [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square&labelColor=0D1117&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
+
+## Browser Automation
+*Headless browsers and other tools for automating workflows with browsers*
+* [Apify](https://apify.com/) - Turn websites to an API.
+* [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
+* [Tabstack](https://tabstack.ai/) - Web data and automation API that delivers reliable structured output. Built at Mozilla.
 
 ## CI/CD
 *Continuous Integration/Delivery.*
@@ -407,8 +414,6 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
-* [Apify](https://apify.com/) - Turn websites to an API.
-* [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/browserless/browserless)
 * [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 * [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 * [Geonode](https://geonode.com) - Rotating residential and datacenter proxies with REST API access.
