@@ -78,6 +78,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [OpenHands](https://all-hands.dev/) - an open-source Devin alternative. [![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/All-Hands-AI/OpenHands)
 * [Qodo](https://www.qodo.ai/) - Focusing on confident code generation (focused on testing well).
 * [Replit AI](http://repl.it/) - Replit’s code IDE using AI (has also a free limited plan).
+* [Source Trace](https://srctrace.com) - AI git blame: see which lines came from AI and which model wrote them. Compare models using personal or team dashboard. Zero-config VS Code extension.
 * [Supermaven](https://supermaven.com/) - Heard really good things, especially around speed and context length.
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
