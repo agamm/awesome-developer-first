@@ -340,6 +340,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
+* [intheloop](https://intheloop.wexare.com) - Community platform for AI and tech developers, with voting, karma, referrals, and multilingual interface.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
