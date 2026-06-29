@@ -464,3 +464,5 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+
+- [Skill Hub](https://skill.442595.xyz/) - AI Agent Skills 分类导航站，2600+ skills，多平台兼容
