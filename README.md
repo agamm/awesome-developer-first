@@ -346,6 +346,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [ToolNest (FreeAI.tools)](https://nguyenminhduc9988.github.io/free-tools-hub/) - 68+ free browser-based developer tools. Zero login, zero ads. JSON, Base64, cron, color, hash, minifiers and more.
 
 ## Monitoring
 *Monitoring your production application.*
