@@ -402,6 +402,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 *Generating reports, mainly PDFs.*
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
+* [Doqlo](https://doqlo.com) - Bulk fill and mail merge PDF forms from CSV using a web app or Public API.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 * [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 * [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
