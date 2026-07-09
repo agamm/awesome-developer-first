@@ -41,6 +41,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Localization](#localization)
 * [Mail](#mail)
 * [Media](#media)
+- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 * [Messaging](#messaging)
 * [Misc](#misc)
 * [Monitoring](#monitoring)
@@ -80,7 +81,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
-- [FileCompare](https://filecompare.org) - Online text and file diff tool. Compare lists or code side-by-side with clear highlights for additions, deletions, an...
 
 ## Analytics
 *Track web/app visitors.*
