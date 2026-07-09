@@ -41,9 +41,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Localization](#localization)
 * [Mail](#mail)
 * [Media](#media)
-- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 * [Messaging](#messaging)
 * [Misc](#misc)
+- [ToolFK](https://www.toolfk.com) - Comprehensive online toolkit for developers and creators — code formatting, encryption, PDF tools, AI video, image ed...
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
 * [Orchestration](#orchestration)
