@@ -342,6 +342,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
+* [Cheapbastards](https://cheapbastards.xyz/) - Free subdomain registry for developers. Delegated DNS (bring your own nameservers) or managed records with HTTPS verification.
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
