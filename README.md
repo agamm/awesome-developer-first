@@ -79,7 +79,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Supermaven](https://supermaven.com/) - Heard really good things, especially around speed and context length.
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
-- [AIWriter](https://aiwriter.fun) - AI writing assistant for articles, stories, emails, and content rewriting. Generate high-quality drafts instantly wit...
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
 
 ## Analytics
@@ -94,6 +93,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/posthog/posthog) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
+- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
 * [Zoho Apptics](https://zoho.com/apptics) - Unified, simplified, and actionable product analytics.
 
 ## Authentication & Identity
