@@ -39,11 +39,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Infrastructure as Code](#infrastructure-as-code)
 * [Integrations](#integrations)
 * [Localization](#localization)
+- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 * [Mail](#mail)
 * [Media](#media)
 * [Messaging](#messaging)
 * [Misc](#misc)
-- [ToolFK](https://www.toolfk.com) - Comprehensive online toolkit for developers and creators — code formatting, encryption, PDF tools, AI video, image ed...
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
 * [Orchestration](#orchestration)
