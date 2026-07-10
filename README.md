@@ -41,10 +41,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Localization](#localization)
 * [Mail](#mail)
 * [Media](#media)
+- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 * [Messaging](#messaging)
 * [Misc](#misc)
-- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
-- [ResizeOn](https://resizeon.com) - Simple online image resizer and cropper. Adjust dimensions, crop precisely, and convert formats for social media, web...
 * [Monitoring](#monitoring)
 * [Natural Language Processing](#natural-language-processing)
 * [Orchestration](#orchestration)
