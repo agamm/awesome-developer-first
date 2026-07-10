@@ -80,7 +80,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
-- [FreeImageAI](https://freeimageai.org) - Free AI image generator from text — no signup. Multiple models and art styles for social graphics, concept art, and m...
+- [FreeAIVideo](https://freeaivideo.org) - Free AI video generator — text or image to HD MP4 in seconds. VideoX-3 powered; ideal for TikTok, Reels, ads, and edu...
 
 ## Analytics
 *Track web/app visitors.*
