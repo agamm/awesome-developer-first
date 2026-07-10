@@ -39,7 +39,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Infrastructure as Code](#infrastructure-as-code)
 * [Integrations](#integrations)
 * [Localization](#localization)
-- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 * [Mail](#mail)
 * [Media](#media)
 * [Messaging](#messaging)
@@ -81,6 +80,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Tabby](https://www.tabbyml.com/) - Self-hosted open-source coding assistant. [![tabby](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/TabbyML/tabby)
 * [Tabnine](https://www.tabnine.com/) - One of the OG players in the AI code assistant space.
 * [Warp](https://www.warp.dev/warp-ai) - Fully integrated AI in your terminal.
+- [AIWriter](https://aiwriter.fun) - AI writing assistant for articles, stories, emails, and content rewriting. Generate high-quality drafts instantly wit...
 
 ## Analytics
 *Track web/app visitors.*
