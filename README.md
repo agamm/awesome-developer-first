@@ -268,6 +268,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## IDE
 *Products that extend your IDE and help development.*
+* [Anycode](https://github.com/anycode-ade/anycode) - Web-based IDE with custom fast virtual-rendering code editor, Rust backend, LSP integration, and AI agent support. [![Anycode](https://img.shields.io/github/stars/anycode-ade/anycode?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/anycode-ade/anycode)
 * [GoCodeo](https://www.gocodeo.com/) - An AI coding & testing agent.
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 * [MarsCode](https://www.marscode.com/?utm_source=github&utm_medium=rm) - AI-powered cloud-based IDE.
