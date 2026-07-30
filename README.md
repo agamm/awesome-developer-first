@@ -176,6 +176,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+* [StackRender](https://stackrender.io/) - Free and open-source database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/crate/crate)
 * [Neon](https://neon.tech/) - Serverless Postgres database with scale-to-zero, branching, autoscaling. [![Neon](https://img.shields.io/github/stars/neondatabase/neon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/neondatabase/neon)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any database.
