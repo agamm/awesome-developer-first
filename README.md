@@ -451,6 +451,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 
 ## Testing
 *Testing tools.*
+* [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with memory and self-healing. [![agent-qa](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/vostride/agent-qa)
 * [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing.
 * [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
