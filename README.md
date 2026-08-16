@@ -219,6 +219,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 
 ## Documentation
+* [Canopy](https://canopy.8starlabs.com/) - Living architecture maps for engineering teams, with GitHub imports, service dependencies, ownership and cost context, public embeds, and exports for AI coding tools.
 *Documentation solutions.*
 * [Apidog](https://apidog.com/) - All-in-one API documentation tool, 1-click to generate API documentation from requests.
 * [Bump.sh](https://bump.sh/) - API documentation and change management solution.
