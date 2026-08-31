@@ -351,7 +351,8 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
-## Monitoring
+* [Korelyy](https://korelyy.com/) - 110+ free browser-based developer tools (image converter, emoji mixer, JSON formatter, color picker, meme generator, workflows, life timeline, password generator, etc.). Zero backend, runs locally, no login, no tracking. 6 languages.
+  ## Monitoring
 *Monitoring your production application.*
 * [Airbrake](https://airbrake.io) - Error monitoring in production.
 * [Anteon](https://getanteon.com/) - Kubernetes monitoring and performance testing — available on CLI, self-hosted, and cloud. [![Anteon](https://img.shields.io/github/stars/getanteon/anteon?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/getanteon/anteon)
@@ -471,3 +472,5 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+
+
