@@ -241,6 +241,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 *Control production features with conditional flags in your code.*
 * [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 * [ConfigCat](https://configcat.com/) - Powerful, privacy-first feature flag management with unlimited team size and a forever free plan.
+* [Featureflip](https://featureflip.io) - Feature flags with automated cleanup: a GitHub Action opens a pull request per dead flag to delete its code path.
 * [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/growthbook/growthbook)
 * [Hypertune](https://hypertune.com) - Type-safe feature flags, optimized for React and Next.js.
