@@ -305,6 +305,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Heybounce](https://www.heybounce.io/) - Email verification API.
 * [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 * [Imitate Email](https://imitate.email) - End-to-end email testing tool.
+* [Mailfo](https://mailfo.pages.dev) - Privacy-first disposable email and instant OTP inbox for manual QA and anti-tracking testing.
 * [Lob](https://www.lob.com/) - Email and address verification.
 * [Loops](https://loops.so/) - REST API to manage contact properties, send events and transactional emails. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 * [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
