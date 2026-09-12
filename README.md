@@ -385,6 +385,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 *Orchestration tools for (micro) services.*
 * [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 * [Camunda](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 
 ## Payments & Pricing
 *Handling payments, credit card processing, and invoices.*
