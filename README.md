@@ -340,6 +340,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Misc
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [APPLORE](https://applore.app/app-icon-generator) - App icon and store asset tools for app developers: export every iOS/Android/web icon size and make App Store screenshots.
 * [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/dailydotdev/daily)
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
