@@ -300,6 +300,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Mail
 *Sending emails as a service.*
+* [AliasMail](https://aliasmail.space/) - Zero-logging private email forwarding and real-time webhook dispatch. [![AliasMail](https://img.shields.io/github/stars/anshu4sharma/aliasmail-relay?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/anshu4sharma/aliasmail-relay)
 * [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 * [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Heybounce](https://www.heybounce.io/) - Email verification API.
