@@ -350,6 +350,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
+* [Toolify](https://toolify.studio/) - Privacy-first developer utilities suite and dynamic AI model token pricing calculator with zero-leak client-side processing.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
 ## Monitoring
