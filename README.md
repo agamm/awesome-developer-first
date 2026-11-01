@@ -408,6 +408,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Generating reports, mainly PDFs.*
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
+* [DocSpring](https://docspring.com) - Fill PDF forms, generate PDFs and Word documents, and collect e-signatures with one API.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 * [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 * [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage-based pricing.
