@@ -9,7 +9,7 @@ The definition of developer-first for this repo is:
 * "Headless", "API-first", "SaaS" are frequently used keywords.
 * Usually, this means that the front page has some code examples.
 * Products - tools/services that people pay for.
-
+- [QantaraTools](https://www.qantaratools.com) - Fast, privacy-first client-side web utilities.
 ```diff
 + 👀 Watch this repo to get notifications about new products we find
 ```
