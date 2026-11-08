@@ -349,6 +349,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
 ## Misc
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 *Different products that probably don't have a category.*
 * [Actyx](https://www.actyx.com/) - Developer-first factory building.
 * [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/dailydotdev/daily)
