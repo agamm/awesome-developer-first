@@ -106,6 +106,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
 * [Corbado](https://corbado.com) - Passkey-first authentication as a service.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
+* [Frontegg](https://frontegg.com/) - Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and a self-service admin portal for your customers.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. [![Hanko](https://img.shields.io/github/stars/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/teamhanko/hanko)
 * [Kinde](https://kinde.com/) - Authentification and user management as a service.
