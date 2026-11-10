@@ -357,6 +357,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
 * [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
