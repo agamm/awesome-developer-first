@@ -277,6 +277,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PlaceKit](https://placekit.io/) - Locations search API.
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
+* [Stopwatch Transit](https://transit.shivrajsinh.in) - Open public transit timetable feeds, route geometry lookups, and GTFS schedules across 120+ networks. [![Stopwatch Transit](https://img.shields.io/github/stars/shivrajsinhzala/transit-timetables?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/shivrajsinhzala/transit-timetables)
 
 ## IDE
 *Products that extend your IDE and help development.*
