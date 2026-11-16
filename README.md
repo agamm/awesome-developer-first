@@ -393,6 +393,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Natural Language Processing
 *Interactions with natural language.*
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google. 
+* [HumanPen](https://humanpen.net/) - REST API, A2A 1.0, and web app for document-level humanize (DOCX/PPTX/TXT), translate (12 target languages), condense (DOCX), citation format correction (12 styles), and research projects (100 signup credits; commercial credit-based pricing).
 
 ## Orchestration
 *Orchestration tools for (micro) services.*
